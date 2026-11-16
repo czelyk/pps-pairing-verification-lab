@@ -1,0 +1,4 @@
+# Preserve the exact measured source bytes across clones.
+pairing.c -text
+run_probe.py -text
+verify_trace.py -text

@@ -1,0 +1,67 @@
+{
+  "collected_utc": "2026-11-15T22:52:38.006918+00:00",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "python": "3.12.10",
+  "clock": "QueryPerformanceCounter()",
+  "zig": "0.14.1",
+  "compile_flags": [
+    "cc",
+    "-std=c11",
+    "-Wall",
+    "-Wextra",
+    "-Werror",
+    "-O2"
+  ],
+  "sha256": {
+    "pairing.c": "982012f1abc0bc16564f5fa9bbab3f16da8741203097147abe52bbf9078407e9",
+    "run_probe.py": "98150a66baf8280755817e363de367af265c77afd22be1e3eea0943fad094135",
+    "verify_trace.py": "03e71a07f7110d3730c5fca4f0dea9ee5b5fbd4219eb179027e52c26f92582ea"
+  },
+  "period_ns": 1000000000,
+  "send_offset_ns": 20000000,
+  "window_ns": 200000000,
+  "max_age_ns": 500000000,
+  "paused_read": 3,
+  "release_phase_ns": 90000000,
+  "deterministic_boundary_vectors": 6,
+  "nominal": {
+    "packets": 12,
+    "age_ms_median": 0.0954,
+    "age_ms_max": 0.2531,
+    "phase_only": {
+      "correct": 12,
+      "wrong": 0,
+      "expired": 0,
+      "already_matched": 0,
+      "outside_window": 0
+    },
+    "source_age_guard": {
+      "correct": 12,
+      "wrong": 0,
+      "expired": 0,
+      "already_matched": 0,
+      "outside_window": 0
+    }
+  },
+  "controlled_pause": {
+    "packets": 12,
+    "age_ms_median": 0.0912,
+    "age_ms_max": 1070.0816,
+    "phase_only": {
+      "correct": 10,
+      "wrong": 1,
+      "expired": 0,
+      "already_matched": 1,
+      "outside_window": 0,
+      "first_correct_after_release_ms": 930.6124
+    },
+    "source_age_guard": {
+      "correct": 11,
+      "wrong": 0,
+      "expired": 1,
+      "already_matched": 0,
+      "outside_window": 0,
+      "first_correct_after_release_ms": 0.5892
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "scope": "Deterministic source-delay control with a shared trusted clock",
+  "source_sha256": "982012f1abc0bc16564f5fa9bbab3f16da8741203097147abe52bbf9078407e9",
+  "origin_pulse": 0,
+  "latest_pulse": 1,
+  "publish_ms": 950,
+  "receipt_ms": 1050,
+  "age_ms_from_publication": 100,
+  "age_ms_from_origin_pulse": 1050,
+  "phase_only": "accepted",
+  "guard_age_from_publication": "accepted",
+  "guard_age_from_origin_pulse": "expired"
+}
