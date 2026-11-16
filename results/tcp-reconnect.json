@@ -1,0 +1,428 @@
+{
+  "captured_utc": "2026-11-16T07:53:44.839027+00:00",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "python": "3.12.10",
+  "zig": "0.14.1",
+  "compile_flags": [
+    "cc",
+    "-std=c11",
+    "-Wall",
+    "-Wextra",
+    "-Werror",
+    "-O2"
+  ],
+  "pairing_sha256": "982012f1abc0bc16564f5fa9bbab3f16da8741203097147abe52bbf9078407e9",
+  "period_ns": 1000000000,
+  "send_offset_ns": 20000000,
+  "phase_window_ns": 200000000,
+  "max_age_ns": 500000000,
+  "captures": [
+    {
+      "scenario": "nominal",
+      "pulse_zero_ns": 40629633284000,
+      "scheduled_reconnect_ns": null,
+      "published_ns": [
+        40629653467800,
+        40630653414300,
+        40631653875000,
+        40632654075700,
+        40633654029500,
+        40634653697600,
+        40635653708800,
+        40636653494400
+      ],
+      "received": [
+        {
+          "origin": 0,
+          "wire_send_ns": 40629653475000,
+          "received_ns": 40629653591700,
+          "connection": 0,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "accepted"
+        },
+        {
+          "origin": 1,
+          "wire_send_ns": 40630653419000,
+          "received_ns": 40630653563200,
+          "connection": 0,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "accepted"
+        },
+        {
+          "origin": 2,
+          "wire_send_ns": 40631653879500,
+          "received_ns": 40631653993300,
+          "connection": 0,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "accepted"
+        },
+        {
+          "origin": 3,
+          "wire_send_ns": 40632654081900,
+          "received_ns": 40632654327900,
+          "connection": 0,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "accepted"
+        },
+        {
+          "origin": 4,
+          "wire_send_ns": 40633654032800,
+          "received_ns": 40633654144900,
+          "connection": 0,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "accepted"
+        },
+        {
+          "origin": 5,
+          "wire_send_ns": 40634653704700,
+          "received_ns": 40634653838300,
+          "connection": 0,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "accepted"
+        },
+        {
+          "origin": 6,
+          "wire_send_ns": 40635653712000,
+          "received_ns": 40635653836700,
+          "connection": 0,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "accepted"
+        },
+        {
+          "origin": 7,
+          "wire_send_ns": 40636653497200,
+          "received_ns": 40636653662400,
+          "connection": 0,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "accepted"
+        }
+      ]
+    },
+    {
+      "scenario": "reconnect_latest",
+      "pulse_zero_ns": 40636930267700,
+      "scheduled_reconnect_ns": 40641020267700,
+      "published_ns": [
+        40636950847900,
+        40637950885900,
+        40638950468000,
+        40639950695100,
+        40640950624700,
+        40641950851800,
+        40642950542500,
+        40643950990800
+      ],
+      "received": [
+        {
+          "origin": 0,
+          "wire_send_ns": 40636950850900,
+          "received_ns": 40636950947400,
+          "connection": 0,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "accepted"
+        },
+        {
+          "origin": 1,
+          "wire_send_ns": 40637950887900,
+          "received_ns": 40637950963600,
+          "connection": 0,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "accepted"
+        },
+        {
+          "origin": 2,
+          "wire_send_ns": 40638950470700,
+          "received_ns": 40638950629800,
+          "connection": 0,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "accepted"
+        },
+        {
+          "origin": 4,
+          "wire_send_ns": 40641045796700,
+          "received_ns": 40641045935900,
+          "connection": 1,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "accepted"
+        },
+        {
+          "origin": 5,
+          "wire_send_ns": 40641950857100,
+          "received_ns": 40641951000100,
+          "connection": 1,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "accepted"
+        },
+        {
+          "origin": 6,
+          "wire_send_ns": 40642950545800,
+          "received_ns": 40642950712200,
+          "connection": 1,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "accepted"
+        },
+        {
+          "origin": 7,
+          "wire_send_ns": 40643950995200,
+          "received_ns": 40643951259400,
+          "connection": 1,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "accepted"
+        }
+      ]
+    },
+    {
+      "scenario": "reconnect_fifo",
+      "pulse_zero_ns": 40644065271200,
+      "scheduled_reconnect_ns": 40648155271200,
+      "published_ns": [
+        40644085499400,
+        40645085587700,
+        40646085780300,
+        40647085329300,
+        40648085580800,
+        40649085590200,
+        40650085980000,
+        40651085702800
+      ],
+      "received": [
+        {
+          "origin": 0,
+          "wire_send_ns": 40644085503300,
+          "received_ns": 40644085651000,
+          "connection": 0,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "accepted"
+        },
+        {
+          "origin": 1,
+          "wire_send_ns": 40645085592400,
+          "received_ns": 40645085673200,
+          "connection": 0,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "accepted"
+        },
+        {
+          "origin": 2,
+          "wire_send_ns": 40646085782800,
+          "received_ns": 40646085952000,
+          "connection": 0,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "accepted"
+        },
+        {
+          "origin": 3,
+          "wire_send_ns": 40648156424400,
+          "received_ns": 40648156495400,
+          "connection": 1,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "expired"
+        },
+        {
+          "origin": 4,
+          "wire_send_ns": 40648156467500,
+          "received_ns": 40648156501800,
+          "connection": 1,
+          "phase_only": "already_matched",
+          "wire_age": "already_matched",
+          "publication_age": "accepted"
+        },
+        {
+          "origin": 5,
+          "wire_send_ns": 40649085595200,
+          "received_ns": 40649085690500,
+          "connection": 1,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "accepted"
+        },
+        {
+          "origin": 6,
+          "wire_send_ns": 40650085983400,
+          "received_ns": 40650086144500,
+          "connection": 1,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "accepted"
+        },
+        {
+          "origin": 7,
+          "wire_send_ns": 40651085705700,
+          "received_ns": 40651085872700,
+          "connection": 1,
+          "phase_only": "accepted",
+          "wire_age": "accepted",
+          "publication_age": "accepted"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "nominal": {
+      "published": 8,
+      "received": 8,
+      "omitted_before_wire": [],
+      "max_wire_ms": 0.246,
+      "max_publication_ms": 0.2522,
+      "phase_only": {
+        "correct": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "wrong": [],
+        "expired": []
+      },
+      "wire_age": {
+        "correct": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "wrong": [],
+        "expired": []
+      },
+      "publication_age": {
+        "correct": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "wrong": [],
+        "expired": []
+      }
+    },
+    "reconnect_latest": {
+      "published": 8,
+      "received": 7,
+      "omitted_before_wire": [
+        3
+      ],
+      "max_wire_ms": 0.2642,
+      "max_publication_ms": 95.3112,
+      "phase_only": {
+        "correct": [
+          0,
+          1,
+          2,
+          4,
+          5,
+          6,
+          7
+        ],
+        "wrong": [],
+        "expired": []
+      },
+      "wire_age": {
+        "correct": [
+          0,
+          1,
+          2,
+          4,
+          5,
+          6,
+          7
+        ],
+        "wrong": [],
+        "expired": []
+      },
+      "publication_age": {
+        "correct": [
+          0,
+          1,
+          2,
+          4,
+          5,
+          6,
+          7
+        ],
+        "wrong": [],
+        "expired": []
+      }
+    },
+    "reconnect_fifo": {
+      "published": 8,
+      "received": 8,
+      "omitted_before_wire": [],
+      "max_wire_ms": 0.1692,
+      "max_publication_ms": 1071.1661,
+      "phase_only": {
+        "correct": [
+          0,
+          1,
+          2,
+          5,
+          6,
+          7
+        ],
+        "wrong": [
+          3
+        ],
+        "expired": []
+      },
+      "wire_age": {
+        "correct": [
+          0,
+          1,
+          2,
+          5,
+          6,
+          7
+        ],
+        "wrong": [
+          3
+        ],
+        "expired": []
+      },
+      "publication_age": {
+        "correct": [
+          0,
+          1,
+          2,
+          4,
+          5,
+          6,
+          7
+        ],
+        "wrong": [],
+        "expired": [
+          3
+        ]
+      }
+    }
+  }
+}
