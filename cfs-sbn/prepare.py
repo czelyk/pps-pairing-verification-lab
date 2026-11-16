@@ -66,6 +66,22 @@ layout_only = example / "layout-only"
 layout_only.write_text(layout)
 subprocess.run(["bash", str(layout_only), str(root)], cwd=example, env=env, check=True)
 
+protocol = os.environ.get("SBN_PROTOCOL", "UDP")
+if protocol not in ("UDP", "TCP"):
+    raise ValueError("SBN_PROTOCOL must select UDP or TCP")
+table = upstream / "fsw/tables/sbn_conf_tbl.c"
+if protocol == "TCP":
+    udp_table = table.read_text()
+    edits = { '"UDP"': ('"TCP"', 4),
+              'sbn_udp.so': ('sbn_tcp.so', 1),
+              'SBN_UDP_Ops': ('SBN_TCP_Ops', 1) }
+    for declared, (replacement, count) in edits.items():
+        if udp_table.count(declared) != count:
+            raise ValueError(f"Unexpected example table field {declared}")
+        udp_table = udp_table.replace(declared, replacement)
+    table.write_text(udp_table)
+
+
 def original(directory, relative):
     return subprocess.check_output(["git", "show", f"HEAD:{relative}"],
                                    cwd=directory, text=True)
@@ -94,6 +110,20 @@ for app, table in (("to_lab", "to_lab_sub.c"), ("sch_lab", "sch_lab_table.c")):
 for startup in (root / "sample_defs").glob("cpu*_cfe_es_startup.scr"):
     startup.write_text(startup.read_text().replace("SCH_LAB_APP,", "SCH_LAB,")
                        .replace("TO_LAB_APP,", "TO_LAB,").replace("CI_LAB_APP,", "CI_LAB,").replace("CI_Lab_AppMain,", "CI_LAB_AppMain,"))
+if os.environ.get("SBN_LOCAL_SOURCE") == "1":
+    targets = root / "sample_defs/targets.cmake"
+    config = targets.read_text()
+    config = config.replace("SET(cpu1_APPLIST ci_lab)", "SET(cpu1_APPLIST)")
+    config = config.replace("SET(cpu2_APPLIST fib)", "SET(cpu2_APPLIST fib ci_lab)")
+    targets.write_text(config)
+    cpu1 = root / "sample_defs/cpu1_cfe_es_startup.scr"
+    cpu2 = root / "sample_defs/cpu2_cfe_es_startup.scr"
+    rows = cpu1.read_text().splitlines(keepends=True)
+    ci = [row for row in rows if "CI_LAB_AppMain" in row]
+    if len(ci) != 1:
+        raise ValueError("Expected exactly one CI Lab startup line")
+    cpu1.write_text("".join(row for row in rows if row not in ci))
+    cpu2.write_text(ci[0] + cpu2.read_text())
 subprocess.run(["make", "SIMULATION=native", "prep"], cwd=root, env=env, check=True)
 subprocess.run(["make", "install"], cwd=root, env=env, check=True)
 if not (root / "build/exe/cpu3/core-cpu3").is_file():

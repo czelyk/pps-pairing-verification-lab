@@ -4,4 +4,6 @@ RUN git clone --depth 1 --branch v7.0.1 --recursive --shallow-submodules https:/
 RUN git init /sbn && git -C /sbn fetch --depth 1 https://github.com/nasa/SBN.git 387f660e9df62beaed51b88e093ceac789300b0d && git -C /sbn checkout --detach FETCH_HEAD
 WORKDIR /cfs
 COPY prepare.py /tmp/prepare.py
-RUN python3 /tmp/prepare.py
+ARG SBN_PROTOCOL=UDP
+ARG SBN_LOCAL_SOURCE=0
+RUN SBN_PROTOCOL="$SBN_PROTOCOL" SBN_LOCAL_SOURCE="$SBN_LOCAL_SOURCE" python3 /tmp/prepare.py

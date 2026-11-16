@@ -1,0 +1,4215 @@
+{
+  "records": [
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2877124656869,
+      "kind": "published",
+      "value": 2,
+      "status": 0
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2877260164279,
+      "kind": "received",
+      "value": 2,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2878622158431,
+      "kind": "published",
+      "value": 3,
+      "status": 0
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2878654691080,
+      "kind": "received",
+      "value": 3,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2879620499820,
+      "kind": "published",
+      "value": 5,
+      "status": 0
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2879650375310,
+      "kind": "received",
+      "value": 5,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2880618825362,
+      "kind": "published",
+      "value": 8,
+      "status": 0
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2880646013057,
+      "kind": "received",
+      "value": 8,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2881617199005,
+      "kind": "published",
+      "value": 13,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2882615435491,
+      "kind": "published",
+      "value": 21,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2883613945533,
+      "kind": "published",
+      "value": 34,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2884612144804,
+      "kind": "published",
+      "value": 55,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2886111167290,
+      "kind": "published",
+      "value": 89,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2887109411916,
+      "kind": "published",
+      "value": 144,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2888107793220,
+      "kind": "published",
+      "value": 233,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2889106097854,
+      "kind": "published",
+      "value": 377,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2890104373114,
+      "kind": "published",
+      "value": 610,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2891102744775,
+      "kind": "published",
+      "value": 987,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2892101044331,
+      "kind": "published",
+      "value": 1597,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2893099302029,
+      "kind": "published",
+      "value": 2584,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2894097682576,
+      "kind": "published",
+      "value": 4181,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2895595007668,
+      "kind": "published",
+      "value": 6765,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2896593207174,
+      "kind": "published",
+      "value": 10946,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2897591334788,
+      "kind": "published",
+      "value": 17711,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2898589691660,
+      "kind": "published",
+      "value": 28657,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2899587901689,
+      "kind": "published",
+      "value": 46368,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2900586267598,
+      "kind": "published",
+      "value": 75025,
+      "status": 0
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2900951012818,
+      "kind": "received",
+      "value": 75025,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2901584790417,
+      "kind": "published",
+      "value": 121393,
+      "status": 0
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2901947198108,
+      "kind": "received",
+      "value": 121393,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2902582965329,
+      "kind": "published",
+      "value": 196418,
+      "status": 0
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2902943217936,
+      "kind": "received",
+      "value": 196418,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2903581280409,
+      "kind": "published",
+      "value": 317811,
+      "status": 0
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2903939084647,
+      "kind": "received",
+      "value": 317811,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2904579748370,
+      "kind": "published",
+      "value": 514229,
+      "status": 0
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2904935211430,
+      "kind": "received",
+      "value": 514229,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2906077049043,
+      "kind": "published",
+      "value": 832040,
+      "status": 0
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2906329581103,
+      "kind": "received",
+      "value": 832040,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2907075270756,
+      "kind": "published",
+      "value": 1346269,
+      "status": 0
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2907325890639,
+      "kind": "received",
+      "value": 1346269,
+      "status": 0
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2908073495886,
+      "kind": "published",
+      "value": 2178309,
+      "status": 0
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2908322246203,
+      "kind": "received",
+      "value": 2178309,
+      "status": 0
+    }
+  ],
+  "actions": [
+    {
+      "phase": "before",
+      "command": 0,
+      "ns": 2877083004284
+    },
+    {
+      "phase": "before",
+      "command": 1,
+      "ns": 2878133422101
+    },
+    {
+      "phase": "before",
+      "command": 2,
+      "ns": 2879183692734
+    },
+    {
+      "phase": "before",
+      "command": 3,
+      "ns": 2880233914952
+    },
+    {
+      "phase": "receiver_stopped",
+      "ns": 2881449470916
+    },
+    {
+      "phase": "offline",
+      "command": 0,
+      "ns": 2881449478955
+    },
+    {
+      "phase": "offline",
+      "command": 1,
+      "ns": 2882499773153
+    },
+    {
+      "phase": "offline",
+      "command": 2,
+      "ns": 2883550165841
+    },
+    {
+      "phase": "offline",
+      "command": 3,
+      "ns": 2884600446807
+    },
+    {
+      "phase": "offline",
+      "command": 4,
+      "ns": 2885650738299
+    },
+    {
+      "phase": "offline",
+      "command": 5,
+      "ns": 2886701153511
+    },
+    {
+      "phase": "offline",
+      "command": 6,
+      "ns": 2887751495844
+    },
+    {
+      "phase": "offline",
+      "command": 7,
+      "ns": 2888802065509
+    },
+    {
+      "phase": "offline",
+      "command": 8,
+      "ns": 2889853062323
+    },
+    {
+      "phase": "offline",
+      "command": 9,
+      "ns": 2890903499738
+    },
+    {
+      "phase": "offline",
+      "command": 10,
+      "ns": 2891953739796
+    },
+    {
+      "phase": "offline",
+      "command": 11,
+      "ns": 2893004100682
+    },
+    {
+      "phase": "offline",
+      "command": 12,
+      "ns": 2894054332552
+    },
+    {
+      "phase": "offline",
+      "command": 13,
+      "ns": 2895104498144
+    },
+    {
+      "phase": "receiver_launch",
+      "ns": 2896154701643
+    },
+    {
+      "phase": "restart",
+      "command": 0,
+      "ns": 2896156047785
+    },
+    {
+      "phase": "restart",
+      "command": 1,
+      "ns": 2897206216789
+    },
+    {
+      "phase": "restart",
+      "command": 2,
+      "ns": 2898256517619
+    },
+    {
+      "phase": "restart",
+      "command": 3,
+      "ns": 2899306947753
+    },
+    {
+      "phase": "restart",
+      "command": 4,
+      "ns": 2900357202162
+    },
+    {
+      "phase": "restart",
+      "command": 5,
+      "ns": 2901407577865
+    },
+    {
+      "phase": "restart",
+      "command": 6,
+      "ns": 2902457865048
+    },
+    {
+      "phase": "restart",
+      "command": 7,
+      "ns": 2903508110325
+    },
+    {
+      "phase": "restart",
+      "command": 8,
+      "ns": 2904558528056
+    },
+    {
+      "phase": "restart",
+      "command": 9,
+      "ns": 2905608762223
+    },
+    {
+      "phase": "restart",
+      "command": 10,
+      "ns": 2906659258228
+    },
+    {
+      "phase": "restart",
+      "command": 11,
+      "ns": 2907709525543
+    }
+  ],
+  "logs": [
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866080957397,
+      "line": "CFE_PSP: Reset Type: PO"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866080970397,
+      "line": "CFE_PSP: Default Reset SubType = 1"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866080971945,
+      "line": "CFE_PSP: Default CPU ID = 1"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866080984777,
+      "line": "CFE_PSP: Default Spacecraft ID = 66"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866080985404,
+      "line": "CFE_PSP: Default CPU Name: cpu1"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866080989855,
+      "line": "OS_Posix_GetSchedulerParams():206:Policy 1: available, min-max: 1-99"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866080990458,
+      "line": "OS_Posix_GetSchedulerParams():206:Policy 2: available, min-max: 1-99"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866080990875,
+      "line": "OS_Posix_TaskAPI_Impl_Init():394:Selected policy 2 for RT tasks, root task = 99"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866080992947,
+      "line": "OS_Posix_TaskAPI_Impl_Init():412:Could not setschedparam in main thread: Operation not permitted (1)"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866081904831,
+      "line": "CFE_PSP: initializing module 'soft_timebase' with ID 0110ff00"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866082030660,
+      "line": "CFE_PSP: Instantiated software timebase 'cFS-Master' running at 10000 usec"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866082034963,
+      "line": "CFE_PSP: initializing module 'timebase_posix_clock' with ID 0110ff01"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866082036581,
+      "line": "CFE_PSP: Using POSIX monotonic clock as CFE timebase"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866082037467,
+      "line": "CFE_PSP: initializing module 'eeprom_mmap_file' with ID 0110ff02"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866082038111,
+      "line": "CFE_PSP: Using MMAP simulated EEPROM implementation"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866082065631,
+      "line": "CFE_PSP: initializing module 'port_notimpl' with ID 0110ff03"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866082073947,
+      "line": "CFE_PSP: I/O Port access not implemented"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866082075074,
+      "line": "CFE_PSP: initializing module 'iodriver' with ID 0110ff04"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866082075907,
+      "line": "CFE_PSP: initializing module 'linux_sysmon' with ID 0110ff05"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866082076478,
+      "line": "CFE_PSP: initializing module 'endian_api' with ID 0110ff06"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866082077086,
+      "line": "CFE_PSP: Host CPU Endian=LITTLE"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866082077649,
+      "line": "CFE_PSP: initializing module 'ram_notimpl' with ID 0110ff07"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866082078198,
+      "line": "CFE_PSP: Physical RAM access not implemented"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2866082086072,
+      "line": "CFE_PSP: EEPROM Range (2) created: Start Address = 7183369FF000, Size = 00080000 Status = 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082291515,
+      "line": "CFE_PSP: Reset Type: PO"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082298796,
+      "line": "CFE_PSP: Default Reset SubType = 1"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082300415,
+      "line": "CFE_PSP: Default CPU ID = 2"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082301421,
+      "line": "CFE_PSP: Default Spacecraft ID = 66"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082302611,
+      "line": "CFE_PSP: Default CPU Name: cpu2"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082314879,
+      "line": "OS_Posix_GetSchedulerParams():206:Policy 1: available, min-max: 1-99"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082316190,
+      "line": "OS_Posix_GetSchedulerParams():206:Policy 2: available, min-max: 1-99"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082317135,
+      "line": "OS_Posix_TaskAPI_Impl_Init():394:Selected policy 2 for RT tasks, root task = 99"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082329664,
+      "line": "OS_Posix_TaskAPI_Impl_Init():412:Could not setschedparam in main thread: Operation not permitted (1)"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867082348849,
+      "line": "CFE_PSP: Starting the cFE with a POWER ON reset."
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867082352598,
+      "line": "CFE_PSP: Clearing out CFE CDS Shared memory segment."
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867082353186,
+      "line": "CFE_PSP: Clearing out CFE Reset Shared memory segment."
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867082357232,
+      "line": "CFE_PSP: Clearing out CFE User Reserved Shared memory segment."
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082788501,
+      "line": "CFE_PSP: initializing module 'soft_timebase' with ID 0110ff00"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867082843962,
+      "line": "1980-001-00:47:47.08270 CFE_ES_SetupResetVariables: POWER ON RESET due to Power Cycle (Power Cycle)."
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867082845024,
+      "line": "1980-001-00:47:47.08277 CFE_ES_Main: CFE_ES_Main in EARLY_INIT state"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082918860,
+      "line": "CFE_PSP: Instantiated software timebase 'cFS-Master' running at 10000 usec"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082922398,
+      "line": "CFE_PSP: initializing module 'timebase_posix_clock' with ID 0110ff01"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082923217,
+      "line": "CFE_PSP: Using POSIX monotonic clock as CFE timebase"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082923756,
+      "line": "CFE_PSP: initializing module 'eeprom_mmap_file' with ID 0110ff02"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082924156,
+      "line": "CFE_PSP: Using MMAP simulated EEPROM implementation"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082924587,
+      "line": "CFE_PSP: initializing module 'port_notimpl' with ID 0110ff03"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082924947,
+      "line": "CFE_PSP: I/O Port access not implemented"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082925301,
+      "line": "CFE_PSP: initializing module 'iodriver' with ID 0110ff04"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082925660,
+      "line": "CFE_PSP: initializing module 'linux_sysmon' with ID 0110ff05"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082926028,
+      "line": "CFE_PSP: initializing module 'endian_api' with ID 0110ff06"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082926429,
+      "line": "CFE_PSP: Host CPU Endian=LITTLE"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082926840,
+      "line": "CFE_PSP: initializing module 'ram_notimpl' with ID 0110ff07"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082927222,
+      "line": "CFE_PSP: Physical RAM access not implemented"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2867082940621,
+      "line": "CFE_PSP: EEPROM Range (2) created: Start Address = 79469433F000, Size = 00080000 Status = 0"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867082964679,
+      "line": "CFE_PSP: CFE_PSP_AttachExceptions called"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867082966963,
+      "line": "1980-001-00:47:47.08292 CFE_ES_Main: CFE_ES_Main entering CORE_STARTUP state"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867082967517,
+      "line": "1980-001-00:47:47.08292 CFE_ES_CreateObjects: Starting Object Creation calls."
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867082967850,
+      "line": "1980-001-00:47:47.08292 CFE_ES_CreateObjects: Calling EarlyInit for CFE_CONFIG"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867082968201,
+      "line": "1980-001-00:47:47.08293 CFE_ES_CreateObjects: Calling EarlyInit for CFE_ES"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867083074935,
+      "line": "1980-001-00:47:47.08298 CFE_ES_CreateObjects: Calling EarlyInit for CFE_EVS"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867083077084,
+      "line": "1980-001-00:47:47.08300 CFE_EVS_EarlyInit: Event Log cleared following power-on reset"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867083077478,
+      "line": "1980-001-00:47:47.08301 CFE_ES_CreateObjects: Calling EarlyInit for CFE_FS"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867083077837,
+      "line": "1980-001-00:47:47.08301 CFE_ES_CreateObjects: Calling EarlyInit for CFE_SB"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867083590277,
+      "line": "1980-001-00:47:47.08346 CFE_ES_CreateObjects: Calling EarlyInit for CFE_TBL"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867084439300,
+      "line": "1980-001-00:47:47.08422 CFE_ES_CreateObjects: Calling EarlyInit for CFE_TIME"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867136641908,
+      "line": "EVS Port1 1980-012-14:03:20.05227 66/1/CFE_ES 1: cFE ES Initialized: CFE_ES v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867136648502,
+      "line": "EVS Port1 1980-012-14:03:20.05230 66/1/CFE_ES 2: cFS Versions: cfe v7.0.1+dev0, osal v7.0.1+dev0, psp v7.0.1+dev0. cFE chksm 20040"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867136649182,
+      "line": "EVS Port1 1980-012-14:03:20.05230 66/1/CFE_ES 91: Version Info: Mission SampleMission, version git:v7.0.1-dirty"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867136657623,
+      "line": "EVS Port1 1980-012-14:03:20.05230 66/1/CFE_ES 91: Version Info: Module CORE_API, version git:c5fb2b4"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867136658051,
+      "line": "EVS Port1 1980-012-14:03:20.05232 66/1/CFE_ES 91: Version Info: Module CONFIG, version git:c5fb2b4"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867136658344,
+      "line": "EVS Port1 1980-012-14:03:20.05232 66/1/CFE_ES 91: Version Info: Module ES, version git:c5fb2b4"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867136658585,
+      "line": "EVS Port1 1980-012-14:03:20.05232 66/1/CFE_ES 91: Version Info: Module EVS, version git:c5fb2b4"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867136658856,
+      "line": "EVS Port1 1980-012-14:03:20.05233 66/1/CFE_ES 91: Version Info: Module FS, version git:c5fb2b4"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867136659146,
+      "line": "EVS Port1 1980-012-14:03:20.05233 66/1/CFE_ES 91: Version Info: Module SB, version git:c5fb2b4"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867136669140,
+      "line": "EVS Port1 1980-012-14:03:20.05233 66/1/CFE_ES 91: Version Info: Module TBL, version git:c5fb2b4"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867136669508,
+      "line": "EVS Port1 1980-012-14:03:20.05235 66/1/CFE_ES 91: Version Info: Module TIME, version git:c5fb2b4"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867136671551,
+      "line": "EVS Port1 1980-012-14:03:20.05235 66/1/CFE_ES 91: Version Info: Module OSAL, version git:d2d877a"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867136672684,
+      "line": "EVS Port1 1980-012-14:03:20.05235 66/1/CFE_ES 91: Version Info: Module PSP, version git:c4b3b0b"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867136672984,
+      "line": "EVS Port1 1980-012-14:03:20.05236 66/1/CFE_ES 91: Version Info: Module MSG, version git:c5fb2b4"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867136673263,
+      "line": "EVS Port1 1980-012-14:03:20.05236 66/1/CFE_ES 91: Version Info: Module SBR, version git:c5fb2b4"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867136673553,
+      "line": "EVS Port1 1980-012-14:03:20.05236 66/1/CFE_ES 91: Version Info: Module RESOURCEID, version git:c5fb2b4"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867136673840,
+      "line": "EVS Port1 1980-012-14:03:20.05236 66/1/CFE_ES 92: Build 202611160850 by root@buildkitsandbox, config sample"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867235329775,
+      "line": "EVS Port1 1980-012-14:03:20.15095 66/1/CFE_EVS 1: cFE EVS Initialized: CFE_EVS v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867336156086,
+      "line": "1980-012-14:03:20.25164 CFE_SB_AppInit: Registered 4 events for filtering"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867336182331,
+      "line": "EVS Port1 1980-012-14:03:20.25172 66/1/CFE_SB 1: cFE SB Initialized: CFE_SB v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867336183496,
+      "line": "EVS Port1 1980-012-14:03:20.25173 66/1/CFE_SB 14: No subscribers for MsgId 0x808,sender CFE_SB"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867436792600,
+      "line": "EVS Port1 1980-012-14:03:20.35238 66/1/CFE_TBL 1: cFE TBL Initialized: CFE_TBL v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867436799015,
+      "line": "EVS Port1 1980-012-14:03:20.35241 66/1/CFE_SB 14: No subscribers for MsgId 0x808,sender CFE_TBL"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867537296683,
+      "line": "EVS Port1 1980-012-14:03:20.45288 66/1/CFE_TIME 1: cFE TIME Initialized: CFE_TIME v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867537303801,
+      "line": "EVS Port1 1980-012-14:03:20.45291 66/1/CFE_SB 14: No subscribers for MsgId 0x808,sender CFE_TIME"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867587068015,
+      "line": "1980-012-14:03:20.50267 CFE_ES_CreateObjects: Finished ES CreateObject table entries."
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867587074603,
+      "line": "1980-012-14:03:20.50270 CFE_ES_Main: CFE_ES_Main entering CORE_READY state"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867587075048,
+      "line": "1980-012-14:03:20.50276 CFE_ES_StartApplications: Opened ES App Startup file: /cf/cfe_es_startup.scr"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867587208838,
+      "line": "1980-012-14:03:20.50282 CFE_ES_ParseFileEntry: Loading file: /cf/sch_lab.so, APP: SCH_LAB"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867587210863,
+      "line": "OS_GenericSymbolLookup_Impl():114:SCH_Lab_AppMain: ./cf/sch_lab.so: undefined symbol: SCH_Lab_AppMain"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867587288882,
+      "line": "1980-012-14:03:20.50293 CFE_ES_LoadModule: Could not find symbol:SCH_Lab_AppMain. EC = -1"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867587289846,
+      "line": "1980-012-14:03:20.50299 CFE_ES_ParseFileEntry: Loading file: /cf/sbn.so, APP: SBN"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867637883358,
+      "line": "EVS Port1 1980-012-14:03:20.55345 66/1/SBN 2: SBN subscribed to command pipe SBN_CMD_MID 0x18FA"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867637942940,
+      "line": "EVS Port1 1980-012-14:03:20.55348 66/1/CFE_SB 14: No subscribers for MsgId 0x808,sender SBN"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688214335,
+      "line": "1980-012-14:03:20.60354 CFE_ES_Main: CFE_ES_Main entering APPS_INIT state"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688231160,
+      "line": "1980-012-14:03:20.60361 CFE_ES_Main: CFE_ES_Main entering OPERATIONAL state"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688347037,
+      "line": "EVS Port1 1980-012-14:03:20.60398 66/1/SBN 4: checking if module (TCP) already loaded"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688394508,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_TCP_Ops: ./core-cpu1: undefined symbol: SBN_TCP_Ops"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688396472,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_TCP_Ops: ./cf/sbn.so: undefined symbol: SBN_TCP_Ops"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688447274,
+      "line": "EVS Port1 1980-012-14:03:20.60414 66/1/SBN 4: symbol not yet loaded (SBN_TCP_Ops)"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688448481,
+      "line": "EVS Port1 1980-012-14:03:20.60418 66/1/SBN 4: loading module (Name=TCP, File=/cf/sbn_tcp.so)"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688770913,
+      "line": "EVS Port1 1980-012-14:03:20.60443 66/1/SBN 4: validating symbol load (SBN_TCP_Ops)"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688782650,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_F_Remap: ./core-cpu1: undefined symbol: SBN_F_Remap"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688783152,
+      "line": "EVS Port1 1980-012-14:03:20.60447 66/1/SBN 4: initializing protocol module"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688784547,
+      "line": "SBN_TCP Lib Initialized."
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688784941,
+      "line": "EVS Port1 1980-012-14:03:20.60447 66/1/SBN 4: protocol module initialized"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688785233,
+      "line": "EVS Port1 1980-012-14:03:20.60449 66/1/SBN 4: checking if module (Remap) already loaded"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688785547,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_F_Remap: ./cf/sbn.so: undefined symbol: SBN_F_Remap"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688796952,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_F_Remap: ./cf/sbn_tcp.so: undefined symbol: SBN_F_Remap"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688797362,
+      "line": "EVS Port1 1980-012-14:03:20.60450 66/1/SBN 4: symbol not yet loaded (SBN_F_Remap)"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688797702,
+      "line": "EVS Port1 1980-012-14:03:20.60450 66/1/SBN 4: loading module (Name=Remap, File=/cf/sbn_f_remap.so)"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688880359,
+      "line": "EVS Port1 1980-012-14:03:20.60458 66/1/SBN 4: validating symbol load (SBN_F_Remap)"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688881111,
+      "line": "EVS Port1 1980-012-14:03:20.60459 66/1/SBN 4: initializing filter module"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688968131,
+      "line": "EVS Port1 1980-012-14:03:20.60467 66/1/SBN 4096: SBN_F_Remap Lib Initialized."
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688969141,
+      "line": "EVS Port1 1980-012-14:03:20.60469 66/1/SBN 4: filter module initialized"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688969957,
+      "line": "EVS Port1 1980-012-14:03:20.60470 66/1/SBN 4: configuring peer (SC=66, CPU=1)..."
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688970411,
+      "line": "EVS Port1 1980-012-14:03:20.60470 66/1/SBN 4: found new highest net id: 0"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688970730,
+      "line": "EVS Port1 1980-012-14:03:20.60470 66/1/SBN 4: increasing net count to 1"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688994836,
+      "line": "EVS Port1 1980-012-14:03:20.60470 66/1/SBN 4: peer is this processor: loading net 0"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867688995581,
+      "line": "EVS Port1 1980-012-14:03:20.60472 66/1/SBN 258: configuring net 0x7183368c98b4 -> 127.0.0.1:2234"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867689049128,
+      "line": "EVS Port1 1980-012-14:03:20.60473 66/1/SBN 258: net 0x7183368c98b4 configured"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867689051439,
+      "line": "EVS Port1 1980-012-14:03:20.60475 66/1/SBN 4: configuring peer (SC=66, CPU=2)..."
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867689057225,
+      "line": "EVS Port1 1980-012-14:03:20.60476 66/1/SBN 4: peer is other processor: loading peer onto net 0"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867689057792,
+      "line": "EVS Port1 1980-012-14:03:20.60476 66/1/SBN 258: configuring peer 0x7183368bcf84 -> 127.0.0.1:2235"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867689093748,
+      "line": "EVS Port1 1980-012-14:03:20.60478 66/1/SBN 258: peer 0x7183368bcf84 configured"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867689094519,
+      "line": "EVS Port1 1980-012-14:03:20.60479 66/1/SBN 4: configuring peer (SC=66, CPU=3)..."
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867689095027,
+      "line": "EVS Port1 1980-012-14:03:20.60479 66/1/SBN 4: peer is other processor: loading peer onto net 0"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867689095510,
+      "line": "EVS Port1 1980-012-14:03:20.60479 66/1/SBN 258: configuring peer 0x7183368bdcdc -> 127.0.0.1:2236"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867689095870,
+      "line": "EVS Port1 1980-012-14:03:20.60479 66/1/SBN 258: peer 0x7183368bdcdc configured"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867689096236,
+      "line": "EVS Port1 1980-012-14:03:20.60481 66/1/SBN 5: initializing net: 0"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867689226911,
+      "line": "EVS Port1 1980-012-14:03:20.60491 66/1/SBN 5: Net 0 has 2 peers"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867689227772,
+      "line": "EVS Port1 1980-012-14:03:20.60493 66/1/SBN 5: initializing net: 0 peer: 0: sc: 66 cpu: 2"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867689228357,
+      "line": "EVS Port1 1980-012-14:03:20.60493 66/1/SBN 5: initializing net: 0 peer: 1: sc: 66 cpu: 3"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2867689228875,
+      "line": "EVS Port1 1980-012-14:03:20.60494 66/1/CFE_EVS 44: Events squelched, AppName = SBN"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868083041994,
+      "line": "CFE_PSP: Starting the cFE with a POWER ON reset."
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868083046065,
+      "line": "CFE_PSP: Clearing out CFE CDS Shared memory segment."
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868083203761,
+      "line": "CFE_PSP: Clearing out CFE Reset Shared memory segment."
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868083309717,
+      "line": "CFE_PSP: Clearing out CFE User Reserved Shared memory segment."
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868083457821,
+      "line": "CFE_PSP: Reset Type: PO"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868083621728,
+      "line": "CFE_PSP: Default Reset SubType = 1"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868083623151,
+      "line": "CFE_PSP: Default CPU ID = 3"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868083624134,
+      "line": "CFE_PSP: Default Spacecraft ID = 66"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868083624639,
+      "line": "CFE_PSP: Default CPU Name: cpu3"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868083738465,
+      "line": "OS_Posix_GetSchedulerParams():206:Policy 1: available, min-max: 1-99"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868083744065,
+      "line": "OS_Posix_GetSchedulerParams():206:Policy 2: available, min-max: 1-99"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868083744745,
+      "line": "OS_Posix_TaskAPI_Impl_Init():394:Selected policy 2 for RT tasks, root task = 99"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868083754671,
+      "line": "OS_Posix_TaskAPI_Impl_Init():412:Could not setschedparam in main thread: Operation not permitted (1)"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868084749935,
+      "line": "1980-001-00:47:48.08455 CFE_ES_SetupResetVariables: POWER ON RESET due to Power Cycle (Power Cycle)."
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868084754797,
+      "line": "1980-001-00:47:48.08469 CFE_ES_Main: CFE_ES_Main in EARLY_INIT state"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868084984731,
+      "line": "CFE_PSP: CFE_PSP_AttachExceptions called"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868084988375,
+      "line": "1980-001-00:47:48.08491 CFE_ES_Main: CFE_ES_Main entering CORE_STARTUP state"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868084988987,
+      "line": "1980-001-00:47:48.08492 CFE_ES_CreateObjects: Starting Object Creation calls."
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868084989393,
+      "line": "1980-001-00:47:48.08492 CFE_ES_CreateObjects: Calling EarlyInit for CFE_CONFIG"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868084989677,
+      "line": "1980-001-00:47:48.08493 CFE_ES_CreateObjects: Calling EarlyInit for CFE_ES"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868085076499,
+      "line": "1980-001-00:47:48.08501 CFE_ES_CreateObjects: Calling EarlyInit for CFE_EVS"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868085078847,
+      "line": "1980-001-00:47:48.08505 CFE_EVS_EarlyInit: Event Log cleared following power-on reset"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868085079231,
+      "line": "1980-001-00:47:48.08505 CFE_ES_CreateObjects: Calling EarlyInit for CFE_FS"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868085079627,
+      "line": "1980-001-00:47:48.08505 CFE_ES_CreateObjects: Calling EarlyInit for CFE_SB"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868085094766,
+      "line": "CFE_PSP: initializing module 'soft_timebase' with ID 0110ff00"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868085105529,
+      "line": "CFE_PSP: Instantiated software timebase 'cFS-Master' running at 10000 usec"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868085106424,
+      "line": "CFE_PSP: initializing module 'timebase_posix_clock' with ID 0110ff01"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868085106992,
+      "line": "CFE_PSP: Using POSIX monotonic clock as CFE timebase"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868085107603,
+      "line": "CFE_PSP: initializing module 'eeprom_mmap_file' with ID 0110ff02"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868085108142,
+      "line": "CFE_PSP: Using MMAP simulated EEPROM implementation"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868085195409,
+      "line": "CFE_PSP: initializing module 'port_notimpl' with ID 0110ff03"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868085197579,
+      "line": "CFE_PSP: I/O Port access not implemented"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868085198092,
+      "line": "CFE_PSP: initializing module 'iodriver' with ID 0110ff04"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868085205463,
+      "line": "CFE_PSP: initializing module 'linux_sysmon' with ID 0110ff05"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868085207125,
+      "line": "CFE_PSP: initializing module 'endian_api' with ID 0110ff06"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868085209463,
+      "line": "CFE_PSP: Host CPU Endian=LITTLE"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868085209865,
+      "line": "CFE_PSP: initializing module 'ram_notimpl' with ID 0110ff07"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868085210153,
+      "line": "CFE_PSP: Physical RAM access not implemented"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2868085287509,
+      "line": "CFE_PSP: EEPROM Range (2) created: Start Address = 7DCA5B595000, Size = 00080000 Status = 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868085613259,
+      "line": "1980-001-00:47:48.08555 CFE_ES_CreateObjects: Calling EarlyInit for CFE_TBL"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868086348273,
+      "line": "1980-001-00:47:48.08623 CFE_ES_CreateObjects: Calling EarlyInit for CFE_TIME"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868138646079,
+      "line": "EVS Port1 1980-012-14:03:20.05203 66/2/CFE_ES 1: cFE ES Initialized: CFE_ES v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868138665283,
+      "line": "EVS Port1 1980-012-14:03:20.05207 66/2/CFE_ES 2: cFS Versions: cfe v7.0.1+dev0, osal v7.0.1+dev0, psp v7.0.1+dev0. cFE chksm 46032"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868138666640,
+      "line": "EVS Port1 1980-012-14:03:20.05209 66/2/CFE_ES 91: Version Info: Mission SampleMission, version git:v7.0.1-dirty"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868138669131,
+      "line": "EVS Port1 1980-012-14:03:20.05209 66/2/CFE_ES 91: Version Info: Module CORE_API, version git:c5fb2b4"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868138669722,
+      "line": "EVS Port1 1980-012-14:03:20.05210 66/2/CFE_ES 91: Version Info: Module CONFIG, version git:c5fb2b4"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868138670167,
+      "line": "EVS Port1 1980-012-14:03:20.05212 66/2/CFE_ES 91: Version Info: Module ES, version git:c5fb2b4"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868138670595,
+      "line": "EVS Port1 1980-012-14:03:20.05212 66/2/CFE_ES 91: Version Info: Module EVS, version git:c5fb2b4"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868138670917,
+      "line": "EVS Port1 1980-012-14:03:20.05212 66/2/CFE_ES 91: Version Info: Module FS, version git:c5fb2b4"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868138671200,
+      "line": "EVS Port1 1980-012-14:03:20.05213 66/2/CFE_ES 91: Version Info: Module SB, version git:c5fb2b4"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868138671619,
+      "line": "EVS Port1 1980-012-14:03:20.05213 66/2/CFE_ES 91: Version Info: Module TBL, version git:c5fb2b4"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868138672041,
+      "line": "EVS Port1 1980-012-14:03:20.05213 66/2/CFE_ES 91: Version Info: Module TIME, version git:c5fb2b4"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868138688323,
+      "line": "EVS Port1 1980-012-14:03:20.05215 66/2/CFE_ES 91: Version Info: Module OSAL, version git:d2d877a"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868138688752,
+      "line": "EVS Port1 1980-012-14:03:20.05216 66/2/CFE_ES 91: Version Info: Module PSP, version git:c4b3b0b"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868138689242,
+      "line": "EVS Port1 1980-012-14:03:20.05216 66/2/CFE_ES 91: Version Info: Module MSG, version git:c5fb2b4"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868138689675,
+      "line": "EVS Port1 1980-012-14:03:20.05216 66/2/CFE_ES 91: Version Info: Module SBR, version git:c5fb2b4"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868138690132,
+      "line": "EVS Port1 1980-012-14:03:20.05218 66/2/CFE_ES 91: Version Info: Module RESOURCEID, version git:c5fb2b4"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868138690602,
+      "line": "EVS Port1 1980-012-14:03:20.05218 66/2/CFE_ES 92: Build 202611160850 by root@buildkitsandbox, config sample"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868237313918,
+      "line": "EVS Port1 1980-012-14:03:20.15086 66/2/CFE_EVS 1: cFE EVS Initialized: CFE_EVS v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868337654568,
+      "line": "1980-012-14:03:20.25127 CFE_SB_AppInit: Registered 4 events for filtering"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868337668082,
+      "line": "EVS Port1 1980-012-14:03:20.25134 66/2/CFE_SB 1: cFE SB Initialized: CFE_SB v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868337669045,
+      "line": "EVS Port1 1980-012-14:03:20.25135 66/2/CFE_SB 14: No subscribers for MsgId 0x908,sender CFE_SB"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868438298665,
+      "line": "EVS Port1 1980-012-14:03:20.35177 66/2/CFE_TBL 1: cFE TBL Initialized: CFE_TBL v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868438310642,
+      "line": "EVS Port1 1980-012-14:03:20.35180 66/2/CFE_SB 14: No subscribers for MsgId 0x908,sender CFE_TBL"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868538834793,
+      "line": "EVS Port1 1980-012-14:03:20.45239 66/2/CFE_TIME 1: cFE TIME Initialized: CFE_TIME v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868538855940,
+      "line": "EVS Port1 1980-012-14:03:20.45242 66/2/CFE_SB 14: No subscribers for MsgId 0x908,sender CFE_TIME"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868588713101,
+      "line": "1980-012-14:03:20.50233 CFE_ES_CreateObjects: Finished ES CreateObject table entries."
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868588719948,
+      "line": "1980-012-14:03:20.50235 CFE_ES_Main: CFE_ES_Main entering CORE_READY state"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868588801188,
+      "line": "1980-012-14:03:20.50241 CFE_ES_StartApplications: Opened ES App Startup file: /cf/cfe_es_startup.scr"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868588808417,
+      "line": "1980-012-14:03:20.50248 CFE_ES_ParseFileEntry: Loading file: /cf/ci_lab.so, APP: CI_LAB"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868589175803,
+      "line": "1980-012-14:03:20.50275 CFE_ES_ParseFileEntry: Loading file: /cf/fib_app.so, APP: FIB_APP"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868589269777,
+      "line": "1980-012-14:03:20.50294 CFE_ES_ParseFileEntry: Loading file: /cf/sch_lab.so, APP: SCH_LAB"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868589324729,
+      "line": "OS_GenericSymbolLookup_Impl():114:SCH_Lab_AppMain: ./cf/sch_lab.so: undefined symbol: SCH_Lab_AppMain"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868589393829,
+      "line": "1980-012-14:03:20.50305 CFE_ES_LoadModule: Could not find symbol:SCH_Lab_AppMain. EC = -1"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868589423327,
+      "line": "1980-012-14:03:20.50313 CFE_ES_ParseFileEntry: Loading file: /cf/sbn.so, APP: SBN"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868639453482,
+      "line": "1980-012-14:03:20.55299 CI_LAB listening on UDP port: 1235"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868639461207,
+      "line": "EVS Port1 1980-012-14:03:20.55302 66/2/CI_LAB 3: CI Lab Initialized.CI Lab App v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868639461866,
+      "line": "EVS Port1 1980-012-14:03:20.55303 66/2/FIB_APP 0: Fib App Initialized."
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868639462890,
+      "line": "EVS Port1 1980-012-14:03:20.55303 66/2/CFE_SB 14: No subscribers for MsgId 0x908,sender CI_LAB"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868639819789,
+      "line": "EVS Port1 1980-012-14:03:20.55346 66/2/SBN 2: SBN subscribed to command pipe SBN_CMD_MID 0x19FA"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868689921955,
+      "line": "1980-012-14:03:20.60354 CFE_ES_Main: CFE_ES_Main entering APPS_INIT state"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868689930868,
+      "line": "1980-012-14:03:20.60356 CFE_ES_Main: CFE_ES_Main entering OPERATIONAL state"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690167561,
+      "line": "EVS Port1 1980-012-14:03:20.60385 66/2/SBN 4: checking if module (TCP) already loaded"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690201290,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_TCP_Ops: ./core-cpu2: undefined symbol: SBN_TCP_Ops"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690204263,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_TCP_Ops: ./cf/ci_lab.so: undefined symbol: SBN_TCP_Ops"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690204645,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_TCP_Ops: ./cf/fib_app.so: undefined symbol: SBN_TCP_Ops"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690205170,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_TCP_Ops: ./cf/sbn.so: undefined symbol: SBN_TCP_Ops"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690234445,
+      "line": "EVS Port1 1980-012-14:03:20.60394 66/2/SBN 4: symbol not yet loaded (SBN_TCP_Ops)"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690243409,
+      "line": "EVS Port1 1980-012-14:03:20.60395 66/2/SBN 4: loading module (Name=TCP, File=/cf/sbn_tcp.so)"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690362251,
+      "line": "EVS Port1 1980-012-14:03:20.60406 66/2/SBN 4: validating symbol load (SBN_TCP_Ops)"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690363023,
+      "line": "EVS Port1 1980-012-14:03:20.60408 66/2/SBN 4: initializing protocol module"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690363734,
+      "line": "SBN_TCP Lib Initialized."
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690364212,
+      "line": "EVS Port1 1980-012-14:03:20.60408 66/2/SBN 4: protocol module initialized"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690389903,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_F_Remap: ./core-cpu2: undefined symbol: SBN_F_Remap"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690391400,
+      "line": "EVS Port1 1980-012-14:03:20.60408 66/2/SBN 4: checking if module (Remap) already loaded"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690391846,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_F_Remap: ./cf/ci_lab.so: undefined symbol: SBN_F_Remap"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690392327,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_F_Remap: ./cf/fib_app.so: undefined symbol: SBN_F_Remap"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690392743,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_F_Remap: ./cf/sbn.so: undefined symbol: SBN_F_Remap"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690393054,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_F_Remap: ./cf/sbn_tcp.so: undefined symbol: SBN_F_Remap"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690466880,
+      "line": "EVS Port1 1980-012-14:03:20.60411 66/2/SBN 4: symbol not yet loaded (SBN_F_Remap)"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690470183,
+      "line": "EVS Port1 1980-012-14:03:20.60412 66/2/SBN 4: loading module (Name=Remap, File=/cf/sbn_f_remap.so)"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690570887,
+      "line": "EVS Port1 1980-012-14:03:20.60424 66/2/SBN 4: validating symbol load (SBN_F_Remap)"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690571990,
+      "line": "EVS Port1 1980-012-14:03:20.60426 66/2/SBN 4: initializing filter module"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690634058,
+      "line": "EVS Port1 1980-012-14:03:20.60433 66/2/SBN 4096: SBN_F_Remap Lib Initialized."
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690634812,
+      "line": "EVS Port1 1980-012-14:03:20.60435 66/2/SBN 4: filter module initialized"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690635428,
+      "line": "EVS Port1 1980-012-14:03:20.60435 66/2/SBN 4: configuring peer (SC=66, CPU=1)..."
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690636184,
+      "line": "EVS Port1 1980-012-14:03:20.60435 66/2/SBN 4: found new highest net id: 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690662354,
+      "line": "EVS Port1 1980-012-14:03:20.60435 66/2/SBN 4: increasing net count to 1"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690663199,
+      "line": "EVS Port1 1980-012-14:03:20.60437 66/2/SBN 4: peer is other processor: loading peer onto net 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690663653,
+      "line": "EVS Port1 1980-012-14:03:20.60438 66/2/SBN 258: configuring peer 0x7946941e2f84 -> 127.0.0.1:2234"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690713300,
+      "line": "EVS Port1 1980-012-14:03:20.60438 66/2/SBN 258: peer 0x7946941e2f84 configured"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690715414,
+      "line": "EVS Port1 1980-012-14:03:20.60440 66/2/SBN 4: configuring peer (SC=66, CPU=2)..."
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690715866,
+      "line": "EVS Port1 1980-012-14:03:20.60441 66/2/SBN 4: peer is this processor: loading net 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690716212,
+      "line": "EVS Port1 1980-012-14:03:20.60441 66/2/SBN 258: configuring net 0x7946941ef8b4 -> 127.0.0.1:2235"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690720470,
+      "line": "EVS Port1 1980-012-14:03:20.60441 66/2/SBN 258: net 0x7946941ef8b4 configured"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690720785,
+      "line": "EVS Port1 1980-012-14:03:20.60443 66/2/SBN 4: configuring peer (SC=66, CPU=3)..."
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690726502,
+      "line": "EVS Port1 1980-012-14:03:20.60444 66/2/SBN 4: peer is other processor: loading peer onto net 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690727682,
+      "line": "EVS Port1 1980-012-14:03:20.60444 66/2/SBN 258: configuring peer 0x7946941e3cdc -> 127.0.0.1:2236"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690767915,
+      "line": "EVS Port1 1980-012-14:03:20.60446 66/2/SBN 258: peer 0x7946941e3cdc configured"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690771561,
+      "line": "EVS Port1 1980-012-14:03:20.60447 66/2/SBN 5: initializing net: 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690810139,
+      "line": "EVS Port1 1980-012-14:03:20.60450 66/2/SBN 5: Net 0 has 2 peers"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690811159,
+      "line": "EVS Port1 1980-012-14:03:20.60452 66/2/SBN 5: initializing net: 0 peer: 0: sc: 66 cpu: 1"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690811749,
+      "line": "EVS Port1 1980-012-14:03:20.60452 66/2/SBN 5: initializing net: 0 peer: 1: sc: 66 cpu: 3"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2868690837742,
+      "line": "EVS Port1 1980-012-14:03:20.60453 66/2/CFE_EVS 44: Events squelched, AppName = SBN"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2869032496433,
+      "line": "EVS Port1 1980-012-14:03:21.00001 66/1/CFE_TIME 21: Stop FLYWHEEL"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869085431477,
+      "line": "CFE_PSP: Starting the cFE with a POWER ON reset."
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869085439076,
+      "line": "CFE_PSP: Clearing out CFE CDS Shared memory segment."
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869085534691,
+      "line": "CFE_PSP: Clearing out CFE Reset Shared memory segment."
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869085607562,
+      "line": "CFE_PSP: Clearing out CFE User Reserved Shared memory segment."
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869086787329,
+      "line": "1980-001-00:47:49.08666 CFE_ES_SetupResetVariables: POWER ON RESET due to Power Cycle (Power Cycle)."
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869086791227,
+      "line": "1980-001-00:47:49.08674 CFE_ES_Main: CFE_ES_Main in EARLY_INIT state"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869086941927,
+      "line": "CFE_PSP: CFE_PSP_AttachExceptions called"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869086943184,
+      "line": "1980-001-00:47:49.08691 CFE_ES_Main: CFE_ES_Main entering CORE_STARTUP state"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869086953031,
+      "line": "1980-001-00:47:49.08691 CFE_ES_CreateObjects: Starting Object Creation calls."
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869086953806,
+      "line": "1980-001-00:47:49.08691 CFE_ES_CreateObjects: Calling EarlyInit for CFE_CONFIG"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869086954439,
+      "line": "1980-001-00:47:49.08692 CFE_ES_CreateObjects: Calling EarlyInit for CFE_ES"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869087022047,
+      "line": "1980-001-00:47:49.08698 CFE_ES_CreateObjects: Calling EarlyInit for CFE_EVS"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869087051397,
+      "line": "1980-001-00:47:49.08700 CFE_EVS_EarlyInit: Event Log cleared following power-on reset"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869087052568,
+      "line": "1980-001-00:47:49.08702 CFE_ES_CreateObjects: Calling EarlyInit for CFE_FS"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869087053302,
+      "line": "1980-001-00:47:49.08702 CFE_ES_CreateObjects: Calling EarlyInit for CFE_SB"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869087443576,
+      "line": "1980-001-00:47:49.08733 CFE_ES_CreateObjects: Calling EarlyInit for CFE_TBL"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869087911972,
+      "line": "1980-001-00:47:49.08774 CFE_ES_CreateObjects: Calling EarlyInit for CFE_TIME"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869139916763,
+      "line": "EVS Port1 1980-012-14:03:20.05203 66/3/CFE_ES 1: cFE ES Initialized: CFE_ES v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869139922773,
+      "line": "EVS Port1 1980-012-14:03:20.05206 66/3/CFE_ES 2: cFS Versions: cfe v7.0.1+dev0, osal v7.0.1+dev0, psp v7.0.1+dev0. cFE chksm 20040"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869139923364,
+      "line": "EVS Port1 1980-012-14:03:20.05206 66/3/CFE_ES 91: Version Info: Mission SampleMission, version git:v7.0.1-dirty"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869139924050,
+      "line": "EVS Port1 1980-012-14:03:20.05206 66/3/CFE_ES 91: Version Info: Module CORE_API, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869139924343,
+      "line": "EVS Port1 1980-012-14:03:20.05207 66/3/CFE_ES 91: Version Info: Module CONFIG, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869139924619,
+      "line": "EVS Port1 1980-012-14:03:20.05207 66/3/CFE_ES 91: Version Info: Module ES, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869139924875,
+      "line": "EVS Port1 1980-012-14:03:20.05209 66/3/CFE_ES 91: Version Info: Module EVS, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869139934111,
+      "line": "EVS Port1 1980-012-14:03:20.05209 66/3/CFE_ES 91: Version Info: Module FS, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869139934457,
+      "line": "EVS Port1 1980-012-14:03:20.05209 66/3/CFE_ES 91: Version Info: Module SB, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869139934696,
+      "line": "EVS Port1 1980-012-14:03:20.05209 66/3/CFE_ES 91: Version Info: Module TBL, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869139935013,
+      "line": "EVS Port1 1980-012-14:03:20.05210 66/3/CFE_ES 91: Version Info: Module TIME, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869139944154,
+      "line": "EVS Port1 1980-012-14:03:20.05210 66/3/CFE_ES 91: Version Info: Module OSAL, version git:d2d877a"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869139944478,
+      "line": "EVS Port1 1980-012-14:03:20.05210 66/3/CFE_ES 91: Version Info: Module PSP, version git:c4b3b0b"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869139944863,
+      "line": "EVS Port1 1980-012-14:03:20.05212 66/3/CFE_ES 91: Version Info: Module MSG, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869140019078,
+      "line": "EVS Port1 1980-012-14:03:20.05212 66/3/CFE_ES 91: Version Info: Module SBR, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869140019571,
+      "line": "EVS Port1 1980-012-14:03:20.05212 66/3/CFE_ES 91: Version Info: Module RESOURCEID, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869140020059,
+      "line": "EVS Port1 1980-012-14:03:20.05216 66/3/CFE_ES 92: Build 202611160850 by root@buildkitsandbox, config sample"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869238661695,
+      "line": "EVS Port1 1980-012-14:03:20.15078 66/3/CFE_EVS 1: cFE EVS Initialized: CFE_EVS v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869339104186,
+      "line": "1980-012-14:03:20.25119 CFE_SB_AppInit: Registered 4 events for filtering"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869339172577,
+      "line": "EVS Port1 1980-012-14:03:20.25131 66/3/CFE_SB 1: cFE SB Initialized: CFE_SB v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869339174343,
+      "line": "EVS Port1 1980-012-14:03:20.25132 66/3/CFE_SB 14: No subscribers for MsgId 0x808,sender CFE_SB"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869439941106,
+      "line": "EVS Port1 1980-012-14:03:20.35208 66/3/CFE_TBL 1: cFE TBL Initialized: CFE_TBL v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869439980548,
+      "line": "EVS Port1 1980-012-14:03:20.35209 66/3/CFE_SB 14: No subscribers for MsgId 0x808,sender CFE_TBL"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869540753692,
+      "line": "EVS Port1 1980-012-14:03:20.45280 66/3/CFE_TIME 1: cFE TIME Initialized: CFE_TIME v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869540760548,
+      "line": "EVS Port1 1980-012-14:03:20.45283 66/3/CFE_SB 14: No subscribers for MsgId 0x808,sender CFE_TIME"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869590644328,
+      "line": "1980-012-14:03:20.50254 CFE_ES_CreateObjects: Finished ES CreateObject table entries."
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869590650280,
+      "line": "1980-012-14:03:20.50257 CFE_ES_Main: CFE_ES_Main entering CORE_READY state"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869590650685,
+      "line": "1980-012-14:03:20.50263 CFE_ES_StartApplications: Opened ES App Startup file: /cf/cfe_es_startup.scr"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869590652231,
+      "line": "1980-012-14:03:20.50269 CFE_ES_ParseFileEntry: Loading file: /cf/to_lab.so, APP: TO_LAB"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869590962729,
+      "line": "1980-012-14:03:20.50304 CFE_ES_ParseFileEntry: Loading file: /cf/sch_lab.so, APP: SCH_LAB"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869590966940,
+      "line": "OS_GenericSymbolLookup_Impl():114:SCH_Lab_AppMain: ./cf/sch_lab.so: undefined symbol: SCH_Lab_AppMain"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869590971609,
+      "line": "1980-012-14:03:20.50317 CFE_ES_LoadModule: Could not find symbol:SCH_Lab_AppMain. EC = -1"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869591063851,
+      "line": "1980-012-14:03:20.50324 CFE_ES_ParseFileEntry: Loading file: /cf/sbn.so, APP: SBN"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869641089934,
+      "line": "EVS Port1 1980-012-14:03:20.55320 66/3/TO_LAB 1: TO Lab Initialized.TO Lab v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled, Awaiting enable command."
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869641096319,
+      "line": "EVS Port1 1980-012-14:03:20.55323 66/3/CFE_SB 14: No subscribers for MsgId 0x808,sender TO_LAB"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869641613854,
+      "line": "EVS Port1 1980-012-14:03:20.55377 66/3/SBN 2: SBN subscribed to command pipe SBN_CMD_MID 0x18FA"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869691726527,
+      "line": "1980-012-14:03:20.60383 CFE_ES_Main: CFE_ES_Main entering APPS_INIT state"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869691734876,
+      "line": "1980-012-14:03:20.60385 CFE_ES_Main: CFE_ES_Main entering OPERATIONAL state"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869691832087,
+      "line": "EVS Port1 1980-012-14:03:20.60398 66/3/SBN 4: checking if module (TCP) already loaded"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869691834570,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_TCP_Ops: ./core-cpu3: undefined symbol: SBN_TCP_Ops"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869691839230,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_TCP_Ops: ./cf/to_lab.so: undefined symbol: SBN_TCP_Ops"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869691839757,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_TCP_Ops: ./cf/sbn.so: undefined symbol: SBN_TCP_Ops"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869691933769,
+      "line": "EVS Port1 1980-012-14:03:20.60406 66/3/SBN 4: symbol not yet loaded (SBN_TCP_Ops)"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869691937169,
+      "line": "EVS Port1 1980-012-14:03:20.60408 66/3/SBN 4: loading module (Name=TCP, File=/cf/sbn_tcp.so)"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692115430,
+      "line": "EVS Port1 1980-012-14:03:20.60427 66/3/SBN 4: validating symbol load (SBN_TCP_Ops)"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692117957,
+      "line": "EVS Port1 1980-012-14:03:20.60429 66/3/SBN 4: initializing protocol module"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692118463,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_F_Remap: ./core-cpu3: undefined symbol: SBN_F_Remap"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692119151,
+      "line": "SBN_TCP Lib Initialized."
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692119604,
+      "line": "EVS Port1 1980-012-14:03:20.60430 66/3/SBN 4: protocol module initialized"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692120015,
+      "line": "EVS Port1 1980-012-14:03:20.60430 66/3/SBN 4: checking if module (Remap) already loaded"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692120375,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_F_Remap: ./cf/to_lab.so: undefined symbol: SBN_F_Remap"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692120750,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_F_Remap: ./cf/sbn.so: undefined symbol: SBN_F_Remap"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692133493,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_F_Remap: ./cf/sbn_tcp.so: undefined symbol: SBN_F_Remap"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692133922,
+      "line": "EVS Port1 1980-012-14:03:20.60433 66/3/SBN 4: symbol not yet loaded (SBN_F_Remap)"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692134324,
+      "line": "EVS Port1 1980-012-14:03:20.60435 66/3/SBN 4: loading module (Name=Remap, File=/cf/sbn_f_remap.so)"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692310920,
+      "line": "EVS Port1 1980-012-14:03:20.60441 66/3/SBN 4: validating symbol load (SBN_F_Remap)"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692313436,
+      "line": "EVS Port1 1980-012-14:03:20.60443 66/3/SBN 4: initializing filter module"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692313937,
+      "line": "EVS Port1 1980-012-14:03:20.60452 66/3/SBN 4096: SBN_F_Remap Lib Initialized."
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692318325,
+      "line": "EVS Port1 1980-012-14:03:20.60452 66/3/SBN 4: filter module initialized"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692328359,
+      "line": "EVS Port1 1980-012-14:03:20.60453 66/3/SBN 4: configuring peer (SC=66, CPU=1)..."
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692371736,
+      "line": "EVS Port1 1980-012-14:03:20.60453 66/3/SBN 4: found new highest net id: 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692373513,
+      "line": "EVS Port1 1980-012-14:03:20.60455 66/3/SBN 4: increasing net count to 1"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692374114,
+      "line": "EVS Port1 1980-012-14:03:20.60455 66/3/SBN 4: peer is other processor: loading peer onto net 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692377589,
+      "line": "EVS Port1 1980-012-14:03:20.60456 66/3/SBN 258: configuring peer 0x7dca5b442f84 -> 127.0.0.1:2234"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692381315,
+      "line": "EVS Port1 1980-012-14:03:20.60458 66/3/SBN 258: peer 0x7dca5b442f84 configured"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692381680,
+      "line": "EVS Port1 1980-012-14:03:20.60459 66/3/SBN 4: configuring peer (SC=66, CPU=2)..."
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692475692,
+      "line": "EVS Port1 1980-012-14:03:20.60461 66/3/SBN 4: peer is other processor: loading peer onto net 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692477992,
+      "line": "EVS Port1 1980-012-14:03:20.60462 66/3/SBN 258: configuring peer 0x7dca5b443cdc -> 127.0.0.1:2235"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692478398,
+      "line": "EVS Port1 1980-012-14:03:20.60462 66/3/SBN 258: peer 0x7dca5b443cdc configured"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692478853,
+      "line": "EVS Port1 1980-012-14:03:20.60462 66/3/SBN 4: configuring peer (SC=66, CPU=3)..."
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692479254,
+      "line": "EVS Port1 1980-012-14:03:20.60462 66/3/SBN 4: peer is this processor: loading net 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692479600,
+      "line": "EVS Port1 1980-012-14:03:20.60464 66/3/SBN 258: configuring net 0x7dca5b44f8b4 -> 127.0.0.1:2236"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692481063,
+      "line": "EVS Port1 1980-012-14:03:20.60464 66/3/SBN 258: net 0x7dca5b44f8b4 configured"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692481547,
+      "line": "EVS Port1 1980-012-14:03:20.60466 66/3/SBN 5: initializing net: 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692540228,
+      "line": "EVS Port1 1980-012-14:03:20.60470 66/3/SBN 5: Net 0 has 2 peers"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692541375,
+      "line": "EVS Port1 1980-012-14:03:20.60472 66/3/SBN 5: initializing net: 0 peer: 0: sc: 66 cpu: 1"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692541957,
+      "line": "EVS Port1 1980-012-14:03:20.60472 66/3/SBN 5: initializing net: 0 peer: 1: sc: 66 cpu: 2"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869692542490,
+      "line": "EVS Port1 1980-012-14:03:20.60472 66/3/CFE_EVS 44: Events squelched, AppName = SBN"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2869741572396,
+      "line": "EVS Port1 1980-012-14:03:20.65365 66/3/TO_LAB 19: L523 TO Lab subscribed to 2 messages from the table"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2870033163105,
+      "line": "EVS Port1 1980-012-14:03:21.00001 66/2/CFE_TIME 21: Stop FLYWHEEL"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2871035298448,
+      "line": "EVS Port1 1980-012-14:03:21.00001 66/3/CFE_TIME 21: Stop FLYWHEEL"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2874061483650,
+      "line": "EVS Port1 1980-012-14:03:26.02922 66/1/SBN 259: connecting to peer (PeerData=0x7183368bcf84, ProcessorID=2)"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2874061574397,
+      "line": "EVS Port1 1980-012-14:03:26.02941 66/1/SBN 259: CPU 2 connected"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2874061601823,
+      "line": "EVS Port1 1980-012-14:03:26.02946 66/1/SBN 5: Created peer pipe 'SBN_2_66_Pipe'"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2874061669691,
+      "line": "EVS Port1 1980-012-14:03:26.02949 66/1/SBN 5: Peer 66:2 connected."
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2874061674701,
+      "line": "EVS Port1 1980-012-14:03:26.02952 66/1/SBN 259: connecting to peer (PeerData=0x7183368bdcdc, ProcessorID=3)"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2874061828493,
+      "line": "EVS Port1 1980-012-14:03:26.02963 66/1/SBN 259: CPU 3 connected"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2874061893494,
+      "line": "EVS Port1 1980-012-14:03:26.02969 66/1/SBN 5: Created peer pipe 'SBN_3_66_Pipe'"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2874061896227,
+      "line": "EVS Port1 1980-012-14:03:26.02970 66/1/SBN 5: Peer 66:3 connected."
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2874266250984,
+      "line": "EVS Port1 1980-012-14:03:25.23306 66/2/SBN 5: Created peer pipe 'SBN_1_66_Pipe'"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2874266258192,
+      "line": "EVS Port1 1980-012-14:03:25.23310 66/2/SBN 5: Peer 66:1 connected."
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2874266259270,
+      "line": "EVS Port1 1980-012-14:03:25.23318 66/2/SBN 1: SBN protocol version match with peer 66:1"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2874272465867,
+      "line": "EVS Port1 1980-012-14:03:24.23721 66/3/SBN 5: Created peer pipe 'SBN_1_66_Pipe'"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2874272470381,
+      "line": "EVS Port1 1980-012-14:03:24.23722 66/3/SBN 5: Peer 66:1 connected."
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2874272522581,
+      "line": "EVS Port1 1980-012-14:03:24.23727 66/3/SBN 1: SBN protocol version match with peer 66:1"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2874460253047,
+      "line": "EVS Port1 1980-012-14:03:26.42797 66/1/SBN 1: SBN protocol version match with peer 66:3"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2875063005389,
+      "line": "EVS Port1 1980-012-14:03:26.02987 66/2/SBN 259: connecting to peer (PeerData=0x7946941e3cdc, ProcessorID=3)"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2875063091543,
+      "line": "EVS Port1 1980-012-14:03:26.03001 66/2/SBN 259: CPU 3 connected"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2875063095469,
+      "line": "EVS Port1 1980-012-14:03:26.03005 66/2/SBN 5: Created peer pipe 'SBN_3_66_Pipe'"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2875063095967,
+      "line": "EVS Port1 1980-012-14:03:26.03005 66/2/SBN 5: Peer 66:3 connected."
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2875268649899,
+      "line": "EVS Port1 1980-012-14:03:25.23307 66/3/SBN 5: Created peer pipe 'SBN_2_66_Pipe'"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2875268692056,
+      "line": "EVS Port1 1980-012-14:03:25.23310 66/3/SBN 5: Peer 66:2 connected."
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2875268694726,
+      "line": "EVS Port1 1980-012-14:03:25.23315 66/3/SBN 1: SBN protocol version match with peer 66:2"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2875461399361,
+      "line": "EVS Port1 1980-012-14:03:26.42826 66/2/SBN 1: SBN protocol version match with peer 66:3"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2877124656869,
+      "line": "PPS_PUBLISHED 2 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2877260164279,
+      "line": "PPS_RECEIVED 2 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2878622158431,
+      "line": "PPS_PUBLISHED 3 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2878654691080,
+      "line": "PPS_RECEIVED 3 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2879620499820,
+      "line": "PPS_PUBLISHED 5 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2879650375310,
+      "line": "PPS_RECEIVED 5 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2880618825362,
+      "line": "PPS_PUBLISHED 8 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2880646013057,
+      "line": "PPS_RECEIVED 8 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2881285504532,
+      "line": "1980-012-14:03:31.25001 CFE_ES_RunExceptionScan: ExceptionID 0x1110000 in TaskID 0: Caught Signal 15"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2881285514436,
+      "line": "1980-012-14:03:31.25007 CFE_ES_RunExceptionScan: Processor Reset count not reached (0/2)"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2881285515326,
+      "line": "CFE_PSP: Exiting cFE with PROCESSOR Reset status."
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2881285515916,
+      "line": ""
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2881285516599,
+      "line": "CFE_PSP: Shutdown initiated - Exiting cFE"
+    },
+    {
+      "cpu": 3,
+      "instance": 1,
+      "ns": 2881386260448,
+      "line": "TO delete callback -- Closing TO Network socket."
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2881432243777,
+      "line": "EVS Port1 1980-012-14:03:33.39987 66/1/SBN 259: Connection 1 head recv failed, disconnected"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2881432262610,
+      "line": "EVS Port1 1980-012-14:03:33.40011 66/1/SBN 5: Disconnected from peer 66:3."
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2881432265063,
+      "line": "EVS Port1 1980-012-14:03:33.40014 66/1/SBN 259: connecting to peer (PeerData=0x7183368bdcdc, ProcessorID=3)"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2881432426532,
+      "line": "EVS Port1 1980-012-14:03:33.40025 66/1/SBN 257: unable to connect to peer (PeerData=0x7183368bdcdc)"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2881437627155,
+      "line": "EVS Port1 1980-012-14:03:32.40412 66/2/SBN 259: Connection 1 head recv failed, disconnected"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2881437702829,
+      "line": "EVS Port1 1980-012-14:03:32.40461 66/2/SBN 5: Disconnected from peer 66:3."
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2881437722043,
+      "line": "EVS Port1 1980-012-14:03:32.40466 66/2/SBN 259: connecting to peer (PeerData=0x7946941e3cdc, ProcessorID=3)"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2881437881333,
+      "line": "EVS Port1 1980-012-14:03:32.40484 66/2/SBN 257: unable to connect to peer (PeerData=0x7946941e3cdc)"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2881617199005,
+      "line": "PPS_PUBLISHED 13 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2882615435491,
+      "line": "PPS_PUBLISHED 21 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2883613945533,
+      "line": "PPS_PUBLISHED 34 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2884612144804,
+      "line": "PPS_PUBLISHED 55 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2886111167290,
+      "line": "PPS_PUBLISHED 89 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2887109411916,
+      "line": "PPS_PUBLISHED 144 0"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2887611105327,
+      "line": "EVS Port1 1980-012-14:03:39.57855 66/1/SBN 259: connecting to peer (PeerData=0x7183368bdcdc, ProcessorID=3)"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2887611129213,
+      "line": "EVS Port1 1980-012-14:03:39.57876 66/1/SBN 257: unable to connect to peer (PeerData=0x7183368bdcdc)"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2887614836300,
+      "line": "EVS Port1 1980-012-14:03:38.58161 66/2/SBN 259: connecting to peer (PeerData=0x7946941e3cdc, ProcessorID=3)"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2887614853151,
+      "line": "EVS Port1 1980-012-14:03:38.58175 66/2/SBN 257: unable to connect to peer (PeerData=0x7946941e3cdc)"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2888107793220,
+      "line": "PPS_PUBLISHED 233 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2889106097854,
+      "line": "PPS_PUBLISHED 377 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2890104373114,
+      "line": "PPS_PUBLISHED 610 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2891102744775,
+      "line": "PPS_PUBLISHED 987 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2892101044331,
+      "line": "PPS_PUBLISHED 1597 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2893099302029,
+      "line": "PPS_PUBLISHED 2584 0"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2893789536856,
+      "line": "EVS Port1 1980-012-14:03:45.75700 66/1/SBN 259: connecting to peer (PeerData=0x7183368bdcdc, ProcessorID=3)"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2893789544870,
+      "line": "EVS Port1 1980-012-14:03:45.75720 66/1/SBN 257: unable to connect to peer (PeerData=0x7183368bdcdc)"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2893791970006,
+      "line": "EVS Port1 1980-012-14:03:44.75872 66/2/SBN 259: connecting to peer (PeerData=0x7946941e3cdc, ProcessorID=3)"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2893792059788,
+      "line": "EVS Port1 1980-012-14:03:44.75881 66/2/SBN 257: unable to connect to peer (PeerData=0x7946941e3cdc)"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2894097682576,
+      "line": "PPS_PUBLISHED 4181 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2895595007668,
+      "line": "PPS_PUBLISHED 6765 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156632014,
+      "line": "CFE_PSP: Reset Type: PO"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156636433,
+      "line": "CFE_PSP: Default Reset SubType = 1"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156636860,
+      "line": "CFE_PSP: Default CPU ID = 3"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156641716,
+      "line": "CFE_PSP: Default Spacecraft ID = 66"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156642065,
+      "line": "CFE_PSP: Default CPU Name: cpu3"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156646768,
+      "line": "OS_Posix_GetSchedulerParams():206:Policy 1: available, min-max: 1-99"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156647169,
+      "line": "OS_Posix_GetSchedulerParams():206:Policy 2: available, min-max: 1-99"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156647512,
+      "line": "OS_Posix_TaskAPI_Impl_Init():394:Selected policy 2 for RT tasks, root task = 99"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156650843,
+      "line": "OS_Posix_TaskAPI_Impl_Init():412:Could not setschedparam in main thread: Operation not permitted (1)"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156810353,
+      "line": "CFE_PSP: initializing module 'soft_timebase' with ID 0110ff00"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156869043,
+      "line": "CFE_PSP: Instantiated software timebase 'cFS-Master' running at 10000 usec"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156870295,
+      "line": "CFE_PSP: initializing module 'timebase_posix_clock' with ID 0110ff01"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156871069,
+      "line": "CFE_PSP: Using POSIX monotonic clock as CFE timebase"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156873849,
+      "line": "CFE_PSP: initializing module 'eeprom_mmap_file' with ID 0110ff02"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156874225,
+      "line": "CFE_PSP: Using MMAP simulated EEPROM implementation"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156978725,
+      "line": "CFE_PSP: initializing module 'port_notimpl' with ID 0110ff03"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156981036,
+      "line": "CFE_PSP: I/O Port access not implemented"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156981481,
+      "line": "CFE_PSP: initializing module 'iodriver' with ID 0110ff04"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156981864,
+      "line": "CFE_PSP: initializing module 'linux_sysmon' with ID 0110ff05"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156982129,
+      "line": "CFE_PSP: initializing module 'endian_api' with ID 0110ff06"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156982547,
+      "line": "CFE_PSP: Host CPU Endian=LITTLE"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156982908,
+      "line": "CFE_PSP: initializing module 'ram_notimpl' with ID 0110ff07"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156983162,
+      "line": "CFE_PSP: Physical RAM access not implemented"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2896156983514,
+      "line": "CFE_PSP: EEPROM Range (2) created: Start Address = 7DBD477D3000, Size = 00080000 Status = 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2896593207174,
+      "line": "PPS_PUBLISHED 10946 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897157139926,
+      "line": "CFE_PSP: Normal exit from previous cFE instance"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897157146319,
+      "line": "CFE_PSP: Starting the cFE with a POWER ON reset."
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897157158858,
+      "line": "CFE_PSP: Clearing out CFE CDS Shared memory segment."
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897157226691,
+      "line": "CFE_PSP: Clearing out CFE Reset Shared memory segment."
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897157229948,
+      "line": "CFE_PSP: Clearing out CFE User Reserved Shared memory segment."
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897157938008,
+      "line": "1980-001-00:48:17.15779 CFE_ES_SetupResetVariables: POWER ON RESET due to Power Cycle (Power Cycle)."
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897157938916,
+      "line": "1980-001-00:48:17.15788 CFE_ES_Main: CFE_ES_Main in EARLY_INIT state"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897158058106,
+      "line": "CFE_PSP: CFE_PSP_AttachExceptions called"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897158058863,
+      "line": "1980-001-00:48:17.15803 CFE_ES_Main: CFE_ES_Main entering CORE_STARTUP state"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897158059250,
+      "line": "1980-001-00:48:17.15803 CFE_ES_CreateObjects: Starting Object Creation calls."
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897158059641,
+      "line": "1980-001-00:48:17.15803 CFE_ES_CreateObjects: Calling EarlyInit for CFE_CONFIG"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897158084975,
+      "line": "1980-001-00:48:17.15804 CFE_ES_CreateObjects: Calling EarlyInit for CFE_ES"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897158140423,
+      "line": "1980-001-00:48:17.15810 CFE_ES_CreateObjects: Calling EarlyInit for CFE_EVS"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897158141075,
+      "line": "1980-001-00:48:17.15812 CFE_EVS_EarlyInit: Event Log cleared following power-on reset"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897158141411,
+      "line": "1980-001-00:48:17.15812 CFE_ES_CreateObjects: Calling EarlyInit for CFE_FS"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897158141704,
+      "line": "1980-001-00:48:17.15812 CFE_ES_CreateObjects: Calling EarlyInit for CFE_SB"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897158380738,
+      "line": "1980-001-00:48:17.15834 CFE_ES_CreateObjects: Calling EarlyInit for CFE_TBL"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897158626856,
+      "line": "1980-001-00:48:17.15859 CFE_ES_CreateObjects: Calling EarlyInit for CFE_TIME"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897210308643,
+      "line": "EVS Port1 1980-012-14:03:20.05151 66/3/CFE_ES 1: cFE ES Initialized: CFE_ES v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897210316163,
+      "line": "EVS Port1 1980-012-14:03:20.05154 66/3/CFE_ES 2: cFS Versions: cfe v7.0.1+dev0, osal v7.0.1+dev0, psp v7.0.1+dev0. cFE chksm 20040"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897210316717,
+      "line": "EVS Port1 1980-012-14:03:20.05155 66/3/CFE_ES 91: Version Info: Mission SampleMission, version git:v7.0.1-dirty"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897210317971,
+      "line": "EVS Port1 1980-012-14:03:20.05155 66/3/CFE_ES 91: Version Info: Module CORE_API, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897210405595,
+      "line": "EVS Port1 1980-012-14:03:20.05158 66/3/CFE_ES 91: Version Info: Module CONFIG, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897210408380,
+      "line": "EVS Port1 1980-012-14:03:20.05158 66/3/CFE_ES 91: Version Info: Module ES, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897210408694,
+      "line": "EVS Port1 1980-012-14:03:20.05158 66/3/CFE_ES 91: Version Info: Module EVS, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897210408935,
+      "line": "EVS Port1 1980-012-14:03:20.05158 66/3/CFE_ES 91: Version Info: Module FS, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897210409165,
+      "line": "EVS Port1 1980-012-14:03:20.05158 66/3/CFE_ES 91: Version Info: Module SB, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897210409411,
+      "line": "EVS Port1 1980-012-14:03:20.05160 66/3/CFE_ES 91: Version Info: Module TBL, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897210411466,
+      "line": "EVS Port1 1980-012-14:03:20.05160 66/3/CFE_ES 91: Version Info: Module TIME, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897210411765,
+      "line": "EVS Port1 1980-012-14:03:20.05160 66/3/CFE_ES 91: Version Info: Module OSAL, version git:d2d877a"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897210412003,
+      "line": "EVS Port1 1980-012-14:03:20.05160 66/3/CFE_ES 91: Version Info: Module PSP, version git:c4b3b0b"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897210412267,
+      "line": "EVS Port1 1980-012-14:03:20.05160 66/3/CFE_ES 91: Version Info: Module MSG, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897210412489,
+      "line": "EVS Port1 1980-012-14:03:20.05160 66/3/CFE_ES 91: Version Info: Module SBR, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897210412737,
+      "line": "EVS Port1 1980-012-14:03:20.05162 66/3/CFE_ES 91: Version Info: Module RESOURCEID, version git:c5fb2b4"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897210413027,
+      "line": "EVS Port1 1980-012-14:03:20.05162 66/3/CFE_ES 92: Build 202611160850 by root@buildkitsandbox, config sample"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897309686732,
+      "line": "EVS Port1 1980-012-14:03:20.15092 66/3/CFE_EVS 1: cFE EVS Initialized: CFE_EVS v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897409995584,
+      "line": "1980-012-14:03:20.25126 CFE_SB_AppInit: Registered 4 events for filtering"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897410010632,
+      "line": "EVS Port1 1980-012-14:03:20.25134 66/3/CFE_SB 1: cFE SB Initialized: CFE_SB v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897410011626,
+      "line": "EVS Port1 1980-012-14:03:20.25135 66/3/CFE_SB 14: No subscribers for MsgId 0x808,sender CFE_SB"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897510643962,
+      "line": "EVS Port1 1980-012-14:03:20.35191 66/3/CFE_TBL 1: cFE TBL Initialized: CFE_TBL v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897510649929,
+      "line": "EVS Port1 1980-012-14:03:20.35195 66/3/CFE_SB 14: No subscribers for MsgId 0x808,sender CFE_TBL"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2897591334788,
+      "line": "PPS_PUBLISHED 17711 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897611105452,
+      "line": "EVS Port1 1980-012-14:03:20.45237 66/3/CFE_TIME 1: cFE TIME Initialized: CFE_TIME v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897611110862,
+      "line": "EVS Port1 1980-012-14:03:20.45239 66/3/CFE_SB 14: No subscribers for MsgId 0x808,sender CFE_TIME"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897660978715,
+      "line": "1980-012-14:03:20.50218 CFE_ES_CreateObjects: Finished ES CreateObject table entries."
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897660985608,
+      "line": "1980-012-14:03:20.50221 CFE_ES_Main: CFE_ES_Main entering CORE_READY state"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897660986069,
+      "line": "1980-012-14:03:20.50224 CFE_ES_StartApplications: Opened ES App Startup file: /cf/cfe_es_startup.scr"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897661064724,
+      "line": "1980-012-14:03:20.50232 CFE_ES_ParseFileEntry: Loading file: /cf/to_lab.so, APP: TO_LAB"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897661508088,
+      "line": "1980-012-14:03:20.50278 CFE_ES_ParseFileEntry: Loading file: /cf/sch_lab.so, APP: SCH_LAB"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897661512828,
+      "line": "OS_GenericSymbolLookup_Impl():114:SCH_Lab_AppMain: ./cf/sch_lab.so: undefined symbol: SCH_Lab_AppMain"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897661623247,
+      "line": "1980-012-14:03:20.50287 CFE_ES_LoadModule: Could not find symbol:SCH_Lab_AppMain. EC = -1"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897661625990,
+      "line": "1980-012-14:03:20.50295 CFE_ES_ParseFileEntry: Loading file: /cf/sbn.so, APP: SBN"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897711846302,
+      "line": "EVS Port1 1980-012-14:03:20.55300 66/3/TO_LAB 1: TO Lab Initialized.TO Lab v7.0.1+dev0 (Draco) v7.0.1 Official Release, EDS disabled, Awaiting enable command."
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897711853874,
+      "line": "EVS Port1 1980-012-14:03:20.55305 66/3/CFE_SB 14: No subscribers for MsgId 0x808,sender TO_LAB"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897711977765,
+      "line": "EVS Port1 1980-012-14:03:20.55329 66/3/SBN 2: SBN subscribed to command pipe SBN_CMD_MID 0x18FA"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762103549,
+      "line": "1980-012-14:03:20.60332 CFE_ES_Main: CFE_ES_Main entering APPS_INIT state"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762117550,
+      "line": "1980-012-14:03:20.60335 CFE_ES_Main: CFE_ES_Main entering OPERATIONAL state"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762206059,
+      "line": "EVS Port1 1980-012-14:03:20.60353 66/3/SBN 4: checking if module (TCP) already loaded"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762243431,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_TCP_Ops: ./core-cpu3: undefined symbol: SBN_TCP_Ops"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762244429,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_TCP_Ops: ./cf/to_lab.so: undefined symbol: SBN_TCP_Ops"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762249044,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_TCP_Ops: ./cf/sbn.so: undefined symbol: SBN_TCP_Ops"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762284496,
+      "line": "EVS Port1 1980-012-14:03:20.60362 66/3/SBN 4: symbol not yet loaded (SBN_TCP_Ops)"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762285483,
+      "line": "EVS Port1 1980-012-14:03:20.60365 66/3/SBN 4: loading module (Name=TCP, File=/cf/sbn_tcp.so)"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762413068,
+      "line": "EVS Port1 1980-012-14:03:20.60374 66/3/SBN 4: validating symbol load (SBN_TCP_Ops)"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762413987,
+      "line": "EVS Port1 1980-012-14:03:20.60377 66/3/SBN 4: initializing protocol module"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762414529,
+      "line": "SBN_TCP Lib Initialized."
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762415013,
+      "line": "EVS Port1 1980-012-14:03:20.60377 66/3/SBN 4: protocol module initialized"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762416196,
+      "line": "EVS Port1 1980-012-14:03:20.60377 66/3/SBN 4: checking if module (Remap) already loaded"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762416602,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_F_Remap: ./core-cpu3: undefined symbol: SBN_F_Remap"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762416937,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_F_Remap: ./cf/to_lab.so: undefined symbol: SBN_F_Remap"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762417213,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_F_Remap: ./cf/sbn.so: undefined symbol: SBN_F_Remap"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762417544,
+      "line": "OS_GenericSymbolLookup_Impl():114:SBN_F_Remap: ./cf/sbn_tcp.so: undefined symbol: SBN_F_Remap"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762479410,
+      "line": "EVS Port1 1980-012-14:03:20.60379 66/3/SBN 4: symbol not yet loaded (SBN_F_Remap)"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762483196,
+      "line": "EVS Port1 1980-012-14:03:20.60380 66/3/SBN 4: loading module (Name=Remap, File=/cf/sbn_f_remap.so)"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762523224,
+      "line": "EVS Port1 1980-012-14:03:20.60386 66/3/SBN 4: validating symbol load (SBN_F_Remap)"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762524327,
+      "line": "EVS Port1 1980-012-14:03:20.60388 66/3/SBN 4: initializing filter module"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762621411,
+      "line": "EVS Port1 1980-012-14:03:20.60395 66/3/SBN 4096: SBN_F_Remap Lib Initialized."
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762622570,
+      "line": "EVS Port1 1980-012-14:03:20.60397 66/3/SBN 4: filter module initialized"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762623177,
+      "line": "EVS Port1 1980-012-14:03:20.60398 66/3/SBN 4: configuring peer (SC=66, CPU=1)..."
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762623844,
+      "line": "EVS Port1 1980-012-14:03:20.60398 66/3/SBN 4: found new highest net id: 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762661177,
+      "line": "EVS Port1 1980-012-14:03:20.60398 66/3/SBN 4: increasing net count to 1"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762662164,
+      "line": "EVS Port1 1980-012-14:03:20.60400 66/3/SBN 4: peer is other processor: loading peer onto net 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762662694,
+      "line": "EVS Port1 1980-012-14:03:20.60401 66/3/SBN 258: configuring peer 0x7dbd47680f84 -> 127.0.0.1:2234"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762715162,
+      "line": "EVS Port1 1980-012-14:03:20.60403 66/3/SBN 258: peer 0x7dbd47680f84 configured"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762716036,
+      "line": "EVS Port1 1980-012-14:03:20.60404 66/3/SBN 4: configuring peer (SC=66, CPU=2)..."
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762716631,
+      "line": "EVS Port1 1980-012-14:03:20.60406 66/3/SBN 4: peer is other processor: loading peer onto net 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762717233,
+      "line": "EVS Port1 1980-012-14:03:20.60406 66/3/SBN 258: configuring peer 0x7dbd47681cdc -> 127.0.0.1:2235"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762717675,
+      "line": "EVS Port1 1980-012-14:03:20.60406 66/3/SBN 258: peer 0x7dbd47681cdc configured"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762718050,
+      "line": "EVS Port1 1980-012-14:03:20.60408 66/3/SBN 4: configuring peer (SC=66, CPU=3)..."
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762718395,
+      "line": "EVS Port1 1980-012-14:03:20.60408 66/3/SBN 4: peer is this processor: loading net 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762718739,
+      "line": "EVS Port1 1980-012-14:03:20.60408 66/3/SBN 258: configuring net 0x7dbd4768d8b4 -> 127.0.0.1:2236"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762720814,
+      "line": "EVS Port1 1980-012-14:03:20.60409 66/3/SBN 258: net 0x7dbd4768d8b4 configured"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762722818,
+      "line": "EVS Port1 1980-012-14:03:20.60409 66/3/SBN 5: initializing net: 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762860313,
+      "line": "EVS Port1 1980-012-14:03:20.60417 66/3/SBN 5: Net 0 has 2 peers"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762861616,
+      "line": "EVS Port1 1980-012-14:03:20.60420 66/3/SBN 5: initializing net: 0 peer: 0: sc: 66 cpu: 1"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762862447,
+      "line": "EVS Port1 1980-012-14:03:20.60420 66/3/SBN 5: initializing net: 0 peer: 1: sc: 66 cpu: 2"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897762863370,
+      "line": "EVS Port1 1980-012-14:03:20.60420 66/3/CFE_EVS 44: Events squelched, AppName = SBN"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2897812432060,
+      "line": "EVS Port1 1980-012-14:03:20.65364 66/3/TO_LAB 19: L523 TO Lab subscribed to 2 messages from the table"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2898589691660,
+      "line": "PPS_PUBLISHED 28657 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2899107296523,
+      "line": "EVS Port1 1980-012-14:03:21.00004 66/3/CFE_TIME 21: Stop FLYWHEEL"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2899587901689,
+      "line": "PPS_PUBLISHED 46368 0"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2899964715627,
+      "line": "EVS Port1 1980-012-14:03:51.93229 66/1/SBN 259: connecting to peer (PeerData=0x7183368bdcdc, ProcessorID=3)"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2899964756227,
+      "line": "EVS Port1 1980-012-14:03:51.93251 66/1/SBN 259: CPU 3 connected"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2899964854990,
+      "line": "EVS Port1 1980-012-14:03:51.93261 66/1/SBN 5: Created peer pipe 'SBN_3_66_Pipe'"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2899964866303,
+      "line": "EVS Port1 1980-012-14:03:51.93264 66/1/SBN 5: Peer 66:3 connected."
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2899966879431,
+      "line": "EVS Port1 1980-012-14:03:50.93345 66/2/SBN 259: connecting to peer (PeerData=0x7946941e3cdc, ProcessorID=3)"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2899966950406,
+      "line": "EVS Port1 1980-012-14:03:50.93371 66/2/SBN 259: CPU 3 connected"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2899967054460,
+      "line": "EVS Port1 1980-012-14:03:50.93379 66/2/SBN 5: Created peer pipe 'SBN_3_66_Pipe'"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2899967061716,
+      "line": "EVS Port1 1980-012-14:03:50.93382 66/2/SBN 5: Peer 66:3 connected."
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2900353163697,
+      "line": "EVS Port1 1980-012-14:03:22.24588 66/3/SBN 5: Created peer pipe 'SBN_1_66_Pipe'"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2900353169003,
+      "line": "EVS Port1 1980-012-14:03:22.24591 66/3/SBN 5: Peer 66:1 connected."
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2900353169460,
+      "line": "EVS Port1 1980-012-14:03:22.24598 66/3/SBN 5: Created peer pipe 'SBN_2_66_Pipe'"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2900353169792,
+      "line": "EVS Port1 1980-012-14:03:22.24598 66/3/SBN 5: Peer 66:2 connected."
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2900353170447,
+      "line": "EVS Port1 1980-012-14:03:22.24600 66/3/SBN 1: SBN protocol version match with peer 66:2"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2900363445544,
+      "line": "EVS Port1 1980-012-14:03:52.33111 66/1/SBN 1: SBN protocol version match with peer 66:3"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2900365556164,
+      "line": "EVS Port1 1980-012-14:03:51.33242 66/2/SBN 1: SBN protocol version match with peer 66:3"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2900586267598,
+      "line": "PPS_PUBLISHED 75025 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2900951012818,
+      "line": "PPS_RECEIVED 75025 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2901584790417,
+      "line": "PPS_PUBLISHED 121393 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2901947198108,
+      "line": "PPS_RECEIVED 121393 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2902582965329,
+      "line": "PPS_PUBLISHED 196418 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2902943217936,
+      "line": "PPS_RECEIVED 196418 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2903581280409,
+      "line": "PPS_PUBLISHED 317811 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2903939084647,
+      "line": "PPS_RECEIVED 317811 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2904579748370,
+      "line": "PPS_PUBLISHED 514229 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2904935211430,
+      "line": "PPS_RECEIVED 514229 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2906077049043,
+      "line": "PPS_PUBLISHED 832040 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2906329581103,
+      "line": "PPS_RECEIVED 832040 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2907075270756,
+      "line": "PPS_PUBLISHED 1346269 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2907325890639,
+      "line": "PPS_RECEIVED 1346269 0"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2908073495886,
+      "line": "PPS_PUBLISHED 2178309 0"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2908322246203,
+      "line": "PPS_RECEIVED 2178309 0"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2909760578791,
+      "line": "1980-012-14:04:01.72791 CFE_ES_RunExceptionScan: ExceptionID 0x1110000 in TaskID 0: Caught Signal 15"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2909760586011,
+      "line": "1980-012-14:04:01.72795 CFE_ES_RunExceptionScan: Processor Reset count not reached (0/2)"
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2909760587260,
+      "line": "CFE_PSP: Exiting cFE with PROCESSOR Reset status."
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2909760588029,
+      "line": ""
+    },
+    {
+      "cpu": 1,
+      "instance": 1,
+      "ns": 2909760588758,
+      "line": "CFE_PSP: Shutdown initiated - Exiting cFE"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2909916577085,
+      "line": "EVS Port1 1980-012-14:03:31.80906 66/3/SBN 259: Connection 0 head recv failed, disconnected"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2909916699200,
+      "line": "EVS Port1 1980-012-14:03:31.80941 66/3/SBN 5: Disconnected from peer 66:1."
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2909924967201,
+      "line": "1980-012-14:04:00.89157 CFE_ES_RunExceptionScan: ExceptionID 0x1110000 in TaskID 0: Caught Signal 15"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2909924979011,
+      "line": "1980-012-14:04:00.89163 CFE_ES_RunExceptionScan: Processor Reset count not reached (0/2)"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2909924980611,
+      "line": "CFE_PSP: Exiting cFE with PROCESSOR Reset status."
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2909925113780,
+      "line": ""
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2909925115221,
+      "line": "CFE_PSP: Shutdown initiated - Exiting cFE"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2909927958685,
+      "line": "EVS Port1 1980-012-14:04:00.89443 66/2/SBN 259: Connection 0 head recv failed, disconnected"
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2909927983733,
+      "line": "EVS Port1 1980-012-14:04:00.89469 66/2/SBN 5: Disconnected from peer 66:1."
+    },
+    {
+      "cpu": 2,
+      "instance": 1,
+      "ns": 2910026087040,
+      "line": "CI delete callback -- Closing CI Network socket."
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2910089554568,
+      "line": "1980-012-14:03:31.98212 CFE_ES_RunExceptionScan: ExceptionID 0x1110000 in TaskID 0: Caught Signal 15"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2910089560413,
+      "line": "1980-012-14:03:31.98215 CFE_ES_RunExceptionScan: Processor Reset count not reached (0/2)"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2910089561804,
+      "line": "CFE_PSP: Exiting cFE with PROCESSOR Reset status."
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2910089562531,
+      "line": ""
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2910089563293,
+      "line": "CFE_PSP: Shutdown initiated - Exiting cFE"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2910115827154,
+      "line": "EVS Port1 1980-012-14:03:32.00856 66/3/SBN 259: Connection 1 head recv failed, disconnected"
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2910115838261,
+      "line": "EVS Port1 1980-012-14:03:32.00865 66/3/SBN 5: Disconnected from peer 66:2."
+    },
+    {
+      "cpu": 3,
+      "instance": 2,
+      "ns": 2910190190624,
+      "line": "TO delete callback -- Closing TO Network socket."
+    }
+  ],
+  "command_port": 1235,
+  "summary": {
+    "produced": {
+      "before": [
+        2,
+        3,
+        5,
+        8
+      ],
+      "offline": [
+        13,
+        21,
+        34,
+        55,
+        89,
+        144,
+        233,
+        377,
+        610,
+        987,
+        1597,
+        2584,
+        4181,
+        6765
+      ],
+      "restart": [
+        10946,
+        17711,
+        28657,
+        46368,
+        75025,
+        121393,
+        196418,
+        317811,
+        514229,
+        832040,
+        1346269,
+        2178309
+      ]
+    },
+    "received_before": [
+      2,
+      3,
+      5,
+      8
+    ],
+    "received_after": [
+      75025,
+      121393,
+      196418,
+      317811,
+      514229,
+      832040,
+      1346269,
+      2178309
+    ],
+    "replayed_after_restart": [],
+    "first_after_restart_ms": 4796.311175
+  }
+}

@@ -16,10 +16,10 @@ MARKER = re.compile(r"PPS_(PUBLISHED|RECEIVED) (\d+) (-?\d+)")
 FIB_CMD = 0x1882
 
 
-def command(mid, code=0, payload=b""):
+def command(mid, port, code=0, payload=b""):
     wire = struct.pack(">HHHBB", mid, 0, len(payload) + 1, code, 0) + payload
     with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as sock:
-        sock.sendto(wire, ("127.0.0.1", 1234))
+        sock.sendto(wire, ("127.0.0.1", port))
 
 
 def launch(cpu, instance, records, logs):
@@ -58,7 +58,7 @@ def stop(process, thread):
         raise RuntimeError("cFS console collector did not close")
 
 
-def run(offline_messages):
+def run(offline_messages, command_port):
     records, logs, actions = [], [], []
     processes = {}
     try:
@@ -75,7 +75,7 @@ def run(offline_messages):
                 processes[3] = launch(3, 2, records, logs)
             for attempt in range(count):
                 actions.append({"phase": phase, "command": attempt, "ns": time.monotonic_ns()})
-                command(FIB_CMD)
+                command(FIB_CMD, command_port)
                 time.sleep(1.05)
         time.sleep(1)
     finally:
@@ -123,6 +123,7 @@ def main():
     parser.add_argument("output", type=Path)
     parser.add_argument("--verify", action="store_true")
     parser.add_argument("--offline-messages", type=int, choices=(4, 14), default=4)
+    parser.add_argument("--command-port", type=int, default=1234)
     args = parser.parse_args()
     if args.verify:
         report = json.loads(args.output.read_text())
@@ -132,7 +133,8 @@ def main():
         return
     target = args.output
     with target.open("x") as output:
-        report = run(args.offline_messages)
+        report = run(args.offline_messages, args.command_port)
+        report["command_port"] = args.command_port
         try:
             report["summary"] = summarize(report)
         finally:
