@@ -22,6 +22,7 @@ To audit the archived capture without Zig, run `python -B verify_trace.py result
 - [Run summary and source hashes](results/host-ipc-pilot/summary.json)
 - [Source-delay control](results/source-latency-control.json)
 - [TCP reconnect follow-up and raw trace](TCP-RECONNECT.md)
+- [Integrated NASA cFS SBN restart measurements](cfs-sbn/README.md)
 
 NASA documents split timing paths in [THEMIS](https://spdf.gsfc.nasa.gov/pub/data/themis/documents/tdas/docs/thm_soc_135_time_conventions.pdf) and explains the timing services in [cFS training](https://ntrs.nasa.gov/citations/20210022378). The [VarCORE+ evaluation](https://par.nsf.gov/servlets/purl/10515502) studies consistency across cFE TIME configurations. Age limits are established practice in [chrony's reference-clock configuration](https://chrony-project.org/doc/latest/chrony.conf.html#refclock). Study scope and measurement decisions are in the results.
 
